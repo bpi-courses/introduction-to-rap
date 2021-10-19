@@ -1,0 +1,2746 @@
+[
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>Good quality evidence is key to making better decisions. Departments across government collect and analyse data for a wide variety of outputs. These outputs include official statistics, operational reports and predictive models for policy making.</p>",
+    "_id": "60f571d1680ed409e2f99219",
+    "_parentId": "60f571b6680ed409e2f99218",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Answer",
+    "displayTitle": "",
+    "body": "<p>As of July 2021, approximately how many statistical publications were on the gov.uk website?</p>",
+    "_id": "60f57494680ed409e2f9921e",
+    "_parentId": "60f57362680ed409e2f9921c",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "6,000",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "16,000",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "26,000",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": false,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 0,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p>Correct - as of July 2021, there were over 26000 statistical publications, and that’s not counting analysis solely for internal use!</p><p>&nbsp;&nbsp;&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p>As of July 2021, there were over 26000 statistical publications, and that’s not counting analysis solely for internal use!</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "gov.uk screenshot",
+    "displayTitle": "",
+    "body": "",
+    "_id": "60f57935680ed409e2f99227",
+    "_parentId": "60f57362680ed409e2f9921c",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "Screenshot of published statistics search on gov.uk website",
+      "large": "course/en/assets/be6f77b68195429661a20136aea7bb33d4ccf112.png",
+      "small": "course/en/assets/be6f77b68195429661a20136aea7bb33d4ccf112.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "cBlock-01",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Definition",
+    "displayTitle": "",
+    "body": "<p style=\"text-align:center\">Analytical pipeline: “a process that produces an analytical product from data”</p>",
+    "_id": "60f6e610680ed409e2f99237",
+    "_parentId": "60f6d9e3680ed409e2f9922d",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "General pipeline",
+    "displayTitle": "",
+    "body": "<p>Whilst the techniques and products vary, the process of creating an analytical product can usually be&nbsp;generalised to</p>",
+    "_id": "60f6ea2b680ed409e2f99239",
+    "_parentId": "60f6ea24680ed409e2f99238",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>In practice this could look like receiving data by email and analysing it&nbsp;in Excel. You might then write up the results in Word and publish your report as a PDF.</p>",
+    "_id": "60f6eab7680ed409e2f9923d",
+    "_parentId": "6165814d680ed409e2f99aba",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>As projects get more complicated, so do their processes. Data may come from several different sources. It may be stored and processed in different locations using different software. You might disseminate the results in multiple formats.</p>",
+    "_id": "60f6ebab680ed409e2f99243",
+    "_parentId": "61658260680ed409e2f99ac1",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>Pipelines often contain manual steps, for example copy-pasting or manually moving data. Each manual step is an opportunity to make a mistake. The more times the analysis is repeated, the greater the chance of an error.</p><p>It is difficult to document manual steps in a pipeline. Where documentation does not exist, knowledge becomes siloed in individual analysts. Where it does exists, it often forms lengthy desk instructions. This documentation focuses on practical information rather than the analytical decisions made. It can get separated from the analysis and become outdated. Often neither the documentation nor the raw analysis is shared with the public or external experts.</p><p>Carrying out analysis in this way is also very time consuming. Analysts spend hours on repetitive manual tasks, rather than applying their specialist expertise.</p>",
+    "_id": "60f6ee78680ed409e2f99246",
+    "_parentId": "60f6ee14680ed409e2f99245",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "textinput",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Self reflection exercise",
+    "displayTitle": "Self reflection exercise",
+    "body": "<p>Think about a piece of analysis you have worked on. How did you perform quality assurance?</p>",
+    "_id": "60f7e0b2680ed409e2f99251",
+    "_parentId": "60f7e09f680ed409e2f99250",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "_answers": [],
+        "prefix": "",
+        "suffix": "",
+        "placeholder": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": false,
+    "_canShowFeedback": false,
+    "_canShowMarking": false,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_allowsAnyCase": false,
+    "_allowsPunctuation": false,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>In this module, we looked at some of the problems with traditional analytical pipelines. In the next module, we will next explore our aims when conducting analysis in the future.</p>",
+    "_id": "60f7e32e680ed409e2f99255",
+    "_parentId": "60f7e317680ed409e2f99254",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<ul><li><a href=\"https://osr.statisticsauthority.gov.uk/now-about-that-excel-spreadsheet/\">OSR blog on Test and Trace Spreadsheet Error</a></li><li><a href=\"https://arxiv.org/ftp/arxiv/papers/1602/1602.02601.pdf\">Panko paper from 2015 conference on Spreadsheet Risk Management</a></li><li><a href=\"http://www.eusprig.org/\">European Spreadsheet Risks Interest Group</a></li></ul>",
+    "_id": "60f7e57d680ed409e2f99257",
+    "_parentId": "60f7e577680ed409e2f99256",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Pillars image",
+    "displayTitle": "",
+    "body": "",
+    "_id": "60f7eac3680ed409e2f9925b",
+    "_parentId": "60f7ea58680ed409e2f9925a",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "Diagram showing \"Reproducible\" supporting \"Auditable\" and \"Assured\", and \"Auditable\" supporting \"Assured\"",
+      "large": "course/en/assets/3e6e5076f6195b884c838c8a8bfa5331b95f4c7b.png",
+      "small": "course/en/assets/3e6e5076f6195b884c838c8a8bfa5331b95f4c7b.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Introduction",
+    "displayTitle": "",
+    "body": "<p>In this module, we will look at three founding pillars of good analysis, each supported by the one before it.</p><p>A good quality piece of analysis is:</p><ul><li>Reproducible</li><li>Auditable</li><li>Assured</li></ul>",
+    "_id": "60f80f4a680ed409e2f9925f",
+    "_parentId": "60f7ea58680ed409e2f9925a",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "cBlock-01",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Definition",
+    "displayTitle": "",
+    "body": "<p style=\"text-align:center\">Reproducible analysis:&nbsp;\"the same analysis steps performed on the same dataset consistently produces the same result\"</p>",
+    "_id": "60f810db680ed409e2f99262",
+    "_parentId": "60f80fed680ed409e2f99260",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>Reproducibility is our first pillar of good analysis. We cannot guarantee that our research will always be accurate or fit for purpose. However, we can ensure that if someone else runs the same analysis with the same data, they will get the same results.</p><p>&nbsp;</p><p>Guaranteeing reproducibility relies on transparent production processes. Processes should be open and effectively documented. The successful running of a pipeline must not depend on the unwritten knowledge of individual analysts. Good documentation should also show how our methods map to our implementation. When reproducibility is guaranteed, users and colleagues can focus on other quality checks. For example, they can verify that the implementation is correct and that the research meets the user needs.</p>",
+    "_id": "60f813e0680ed409e2f9926b",
+    "_parentId": "60f813d5680ed409e2f9926a",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Example – statcheck",
+    "displayTitle": "Example – statcheck",
+    "body": "<p>Many scientific disciplines have gone through reproducibility or replication crises. Some of these concerns are due to difficulties in recreating experiments, but some of the blame lies with mathematical or manual error.</p><p>In 2015, the journal <em>Behaviour Research Methods</em> documented reporting errors in a sample of over 250,000 <em>p</em>-values. These <em>p</em>-values were taken from major psychology journals between 1985 and 2013. The study was carried out using the R package <a href=\"http://statcheck.io/about.php\">statcheck</a>. This package allowed researchers to crawl through papers and find basic errors like rounding errors and misreported <em>p</em>-values.</p><p>The study concluded that “half of all published psychology papers … contained at least one <em>p</em>-value that was inconsistent with its test”. Most striking was that the errors weren’t entirely random: “most of the errors tipped the results in favour of statistical significance”. On top of this, “around 13 percent of the papers contained an error that could potentially change the paper’s conclusions”. &nbsp;</p><p>The result of this is that trust in the scientific evidence was reduced. It became very hard to draw conclusions from a paper because there was a good chance it contained a mistake.</p><p>See the <a href=\"https://link.springer.com/article/10.3758/s13428-015-0664-2\">published article</a> for more information.</p>",
+    "_id": "60f81410680ed409e2f9926d",
+    "_parentId": "60f81405680ed409e2f9926c",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "cBlock-01",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Definition",
+    "displayTitle": "",
+    "body": "<p style=\"text-align:center\">Auditable analysis:&nbsp;\"analysis and supporting evidence are available for scrutiny\"</p>",
+    "_id": "60f815a3680ed409e2f99273",
+    "_parentId": "60f81577680ed409e2f99271",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>If decisions are made based on our analysis, then that analysis should be available for scrutiny. This is particularly true when those decisions include the allocation of public funds. It is vital that we not only perform high quality analysis but are also seen to do so.</p><p>At any time, we should be able to answer:</p><ul><li>Who made each decision?</li><li>When was each decision made?</li><li>What evidence was each decision based on?</li></ul><p>Answering these questions gives decision makers and users greater trust in our work. They know the story of our analysis and why we made certain analytical choices. They know who is responsible for each part of the analysis, including the assurance.</p>",
+    "_id": "60f81600680ed409e2f99275",
+    "_parentId": "60f815c0680ed409e2f99274",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "cBlock-02",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Example – 2020 exam results",
+    "displayTitle": "Example – 2020 exam results",
+    "body": "<p>In 2020, schools were closed in response to the coronavirus outbreak and public examinations did not take place. Statistical algorithms were developed to award grades in the absence of exams. When grades were released, “there was widespread public dissatisfaction centred on how the grades had been calculated and the impact on students’ lives”.&nbsp;</p><p>The Office for Statistical Regulation (OSR) reviewed the processes and found that the teams and organisations involved “acted with honesty and integrity”. However, “public confidence was influenced by a number of factors”, including but not limited to:</p><ul><li>“Transparency of the model and its limitations” – whilst the regulators “undertook activities to communicate information … full details around the methodology to be used were not published in advance”. This was due to a variety of reasons, including “short timescales for model development” and “a desire not to cause anxiety amongst students”.</li><li>“Use of external technical challenge in decisions about the models” – regulators drew on external expertise and carried out “extensive analysis”. Despite this, the OSR found that “the methods were not exposed to the widest possible audience of analytical and subject matter experts” and “a greater range of technical challenge may have supported greater consensus around the models”.</li></ul><p>The OSR report’s key lessons for those developing statistical models are:</p><ul><li>“Be open and trustworthy”</li><li>“Be rigorous and ensure quality throughout”</li><li>“Meet the need and provide public value”</li></ul><p>In the context of auditability, this means “ensuring transparency about the aims of the model and the model itself”, “being open to and acting on feedback” and “establishing clear governance and accountability”.</p><p>For the full findings and recommendations, see the <a href=\"https://osr.statisticsauthority.gov.uk/publication/ensuring-statistical-models-command-public-confidence/\">Office for Statistical Regulation report</a>.</p>",
+    "_id": "60f81669680ed409e2f99277",
+    "_parentId": "60f81619680ed409e2f99276",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "cBlock-01",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Definition",
+    "displayTitle": "",
+    "body": "<p style=\"text-align:center\">Assured analysis:&nbsp;\"analysis has passed through a systematic process that established it as fit for purpose\"</p>",
+    "_id": "60f816d7680ed409e2f9927b",
+    "_parentId": "60f816b5680ed409e2f99279",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>As well as being reproducible and auditable, analysis must also be fit for purpose. To prove this to ourselves and our stakeholders, we must put our analysis through a quality assurance (QA) process. The QA process should check if it was completed correctly and is appropriate evidence for decision making. The level of QA required should be proportional to the risks and importance of the decisions it is supporting. The best way of demonstrating assurance is through peer review.</p>",
+    "_id": "60f81700680ed409e2f9927d",
+    "_parentId": "60f816f7680ed409e2f9927c",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "cBlock-02",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Example – West Coast Main Line franchise",
+    "displayTitle": "Example – West Coast Main Line franchise",
+    "body": "<p>In 2012, the contract to operate the London to Glasgow rail line expired. Train operators competed for the new franchise, which was initially awarded to FirstGroup. However, the competition fell through after the previous operator launched a legal challenge.</p><p>Several bodies investigated and found that the process \"was littered with basic errors\". There were \"fundamental errors\" in how the model underpinning the decision was created and managed. Senior leaders \"could not see all the information which might have enabled [them] to challenge the processes\". Technical errors were not discovered or communicated effectively. In the end, the Department for Transport abandoned the franchise competition and paid £40 million in compensation. Sir Nicholas MacPherson was commissioned to review the quality assurance of Government analytical models. His guidance for government analysts was published in the <a href=\"https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/416478/aqua_book_final_web.pdf\">Aqua Book</a>.</p>",
+    "_id": "60f8171e680ed409e2f99281",
+    "_parentId": "60f8171e680ed409e2f99280",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "matching",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Matching question",
+    "displayTitle": "",
+    "body": "<p>Match each pillar of RAP with its definition:</p>",
+    "_id": "60f81785680ed409e2f99284",
+    "_parentId": "60f81772680ed409e2f99283",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldResetAllAnswers": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "placeholder": "Please select an option",
+    "_items": [
+      {
+        "text": "Reproducible",
+        "_options": [
+          {
+            "text": "analysis has passed through a systematic process that established it as fit for purpose",
+            "_isCorrect": false
+          },
+          {
+            "text": "the same analysis steps performed on the same dataset consistently produces the same result",
+            "_isCorrect": true
+          },
+          {
+            "text": "analysis and supporting evidence are available for scrutiny",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Auditable",
+        "_options": [
+          {
+            "text": "analysis has passed through a systematic process that established it as fit for purpose",
+            "_isCorrect": false
+          },
+          {
+            "text": "the same analysis steps performed on the same dataset consistently produces the same result",
+            "_isCorrect": false
+          },
+          {
+            "text": "analysis and supporting evidence are available for scrutiny",
+            "_isCorrect": true
+          }
+        ]
+      },
+      {
+        "text": "Assured",
+        "_options": [
+          {
+            "text": "analysis has passed through a systematic process that established it as fit for purpose",
+            "_isCorrect": true
+          },
+          {
+            "text": "the same analysis steps performed on the same dataset consistently produces the same result",
+            "_isCorrect": false
+          },
+          {
+            "text": "analysis and supporting evidence are available for scrutiny",
+            "_isCorrect": false
+          }
+        ]
+      }
+    ],
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<ul><li><a href=\"https://best-practice-and-impact.github.io/qa-of-code-guidance/index.html\">Duck Book</a></li><li><a href=\"https://simplystatistics.org/2014/06/06/the-real-reason-reproducible-research-is-important/\">Prof Roger D. Peng, Johns Hopkins Bloomberg School of Public Health</a></li><li><a href=\"https://link.springer.com/article/10.3758/s13428-015-0664-2\">The prevalence of statistical reporting errors in psychology (1985–2013),&nbsp;Nuijten et al.</a></li><li><a href=\"https://osr.statisticsauthority.gov.uk/publication/ensuring-statistical-models-command-public-confidence/\">OSR review on public confidence in statistical models</a></li><li><a href=\"https://www.bbc.co.uk/news/uk-politics-21577826\">West coast mainline franchise fiasco</a></li><li><a href=\"https://www.gov.uk/government/publications/report-of-the-laidlaw-inquiry\">Laidlaw Inquiry into the West Coast competition</a></li><li><a href=\"https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/416478/aqua_book_final_web.pdf\">Aqua Book</a></li><li><a href=\"https://code.statisticsauthority.gov.uk/the-code/\">Code of Practice for Statistics</a></li><li><a href=\"https://the-turing-way.netlify.app/welcome\">The Turing Way</a></li></ul>",
+    "_id": "60f81c56680ed409e2f99287",
+    "_parentId": "60f81c2d680ed409e2f99286",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Principles",
+    "displayTitle": "",
+    "body": "",
+    "_id": "60f81eb5680ed409e2f9928b",
+    "_parentId": "60f81e6b680ed409e2f9928a",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Minimise Manual Steps",
+        "body": "<p>We should minimise the number of manual steps in our pipelines. When we do a manual process, such as copy-paste or drag-drop, the computer software converts it into code. We can cut out this intermediate step by creating our analysis using a programming language, rather than spreadsheets. Producing our analysis with code directly connects our inputs and outputs. It reduces the chance of human error and makes analysis easier to reproduce. It also decreases the risk of knowledge being lost when people move on. Implementing automated processes to make our analysis reproducible is one of the top goals of the GSS Quality Strategy.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Maximise Transparency",
+        "body": "<p>Throughout the whole development and use of our pipelines, we should maximise transparency. This makes it easier for stakeholders and independent experts to scrutinise our work and ensure maximum value and impact. The GDS Service Standard states that all new code should made open by default. In the small number of cases where this is not possible, justification should be given.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Open-source software",
+        "body": "<p>It is difficult to make our analysis transparent if our stakeholders cannot access the software needed to read and run the analysis. We should therefore use open-source software for our analysis. Open-source software also has the benefit of large user bases both inside and outside of government. These users communities are happy to share knowledge and support other users.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Version Control",
+        "body": "<p>To enable auditability, we need a good system of version control. Our version control should record changes to the pipeline, who made them, when and why. Like our code, our version control should be open and accessible to our stakeholders.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Embedded Documentation",
+        "body": "<p>Our pipelines should be well documented, and that documentation should be embedded in our code. This makes collaboration easier, as well as allowing for easier auditing and assurance. When documentation exists alongside the code, it is more likely to be kept up to date than if it is spread out across different systems. Having the documentation as part of the code means we have a single&nbsp;source of the truth.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Automated Quality Assurance",
+        "body": "<p>We should automate the aspects of quality assurance that are challenging for humans. This frees up time and makes it easier to keep a record of what QA has been performed. The purpose of this automation is not to get rid of analysts, but to allow analysts to focus on the QA that computers cannot easily do. For example, analysts are much better at ensuring that the analysis is fit for purpose.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": false
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>These principles came together in the first “RAP” project. This project was a collaboration between the Department for Culture, Media and Sport (DCMS) and the Government Digital Service (GDS). In late 2016, these two organisations worked together to develop a new pipeline for the Economic Estimates for DCMS Sectors. They brought together techniques from reproducible research, software engineering and DevOps. They called the results a “reproducible analytical pipeline”. Since then, RAP has been adopted by teams across government. In the next module, we will see some tools that will help us apply these principles in our own teams.</p>",
+    "_id": "60f8202b680ed409e2f9928d",
+    "_parentId": "60f82022680ed409e2f9928c",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Module references and further resources",
+    "displayTitle": "Module references and further resources",
+    "body": "<ul><li><a href=\"https://gss.civilservice.gov.uk/policy-store/government-statistical-service-gss-quality-strategy/\">GSS Quality Strategy</a></li><li><a href=\"https://www.gov.uk/service-manual/service-standard\">GDS Service Standard</a></li></ul>",
+    "_id": "60f8204e680ed409e2f9928f",
+    "_parentId": "60f82042680ed409e2f9928e",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Introduction",
+    "displayTitle": "",
+    "body": "<p>The RAP process is based on several core principles. These principals combine to:</p><ul><li>Increase quality</li><li>Enhance trust</li><li>Boost efficiency</li><li>Better business continuity and knowledge management</li></ul>",
+    "_id": "60f820cd680ed409e2f99291",
+    "_parentId": "60f820c3680ed409e2f99290",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Introduction",
+    "displayTitle": "",
+    "body": "<p>None of the challenges and aims we have been discussing are new. When it comes to implementing our principles, there is a lot we can learn and borrow from the world of software engineering.</p>",
+    "_id": "60f82297680ed409e2f99295",
+    "_parentId": "60f8217c680ed409e2f99294",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>When creating a Reproducible Analytical Pipeline, we should use an open-source programming language. The best programming language will vary from project to project, but R and Python are great choices for most types of data analysis. R has its strengths in statistics and data visualisation and is used widely for research in government and academia. Python is a more general programming language that is also commonly used for data engineering and web development. There is extensive training and community support for both languages inside and outside of government. The choice will usually depend on existing team knowledge and departmental preference.</p>",
+    "_id": "60f823c6680ed409e2f99298",
+    "_parentId": "60f8233c680ed409e2f99297",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>Git is the most used software for version controlling code. Once installed and initiated, Git will track all changes to a project. It will also prompt users to add messages explaining why they made these changes. Git can be configured to prevent the sharing of sensitive information such as data and passwords.</p>",
+    "_id": "60f82911680ed409e2f992a0",
+    "_parentId": "60f828fa680ed409e2f9929f",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>When creating Reproducible Analytical Pipelines, it is important that we not only code, but code well. One important part of writing code well is making it modular. This means breaking your code down into self-contained elements, such as modules, classes, and functions. Modularising code makes it more readable, and easier to update or fix. If one part breaks or needs updating, only that part has to change.</p><p>Once we have modularised our code, we can go one step further and package it. A package is a self-contained collection of code, documentation, and example data,&nbsp;that can be imported and run. Two examples of packages written by analysts in government are gptables and fingertipsR.</p>",
+    "_id": "60f82d36680ed409e2f992a7",
+    "_parentId": "60f82d02680ed409e2f992a6",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>We cannot be sure that our code works without running it on realistic examples. Many analysts will be familiar with doing manual sense checks on their outputs. Treating analysis as software allows us to go one step further and turn these checks into formal tests. In their simplest form, software tests run a part of the pipeline on example data. They assert that the output data meets certain expectations. If these expectations are not met, an error will be raised. The analyst can then investigate what caused this error.</p><p>Modularising our code makes it much easier to check that it is working as expected. For each important or complex function, we should write at least one test. Low-level functions are known as units and this type of testing is called unit testing.</p><p>Other types of software testing also exist. These include:</p><ul><li>Integration testing: tests that check that two or more units work together correctly</li><li>End-to-end testing: tests that assure that a complete pipeline as expected</li><li>User acceptance tests: tests where a pipeline user confirms their requirements are met.</li></ul>",
+    "_id": "60f82de0680ed409e2f992ac",
+    "_parentId": "60f82dc2680ed409e2f992ab",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>Once we have a package with tests, we can introduce continuous integration (CI). CI allows us to automatically check that our package builds and all our tests pass, every time we make a change. Two examples of continuous integration software are Travis and GitHub Actions. In the following GitHub Actions example, GitHub checks our package and runs our tests every time we push changes.</p>",
+    "_id": "60f9110e680ed409e2f992af",
+    "_parentId": "60f910e9680ed409e2f992ae",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>Bringing all these elements together is what gives us a Reproducible Analytical Pipeline. There is a direct line from importing the data, processing, analysing, right through to dissemination. Our functions are kept all together in a well-tested reusable package. We can import this package into a single script that will run our analysis and return our final output. Alongside this output, we can produce an automated quality assurance report or log, to flag&nbsp;any issues with the process.</p>",
+    "_id": "60f91158680ed409e2f992b4",
+    "_parentId": "60f9113c680ed409e2f992b3",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>We can set the pipeline to run automatically, for example at the same time every week, or whenever it detects updates to our data. We keep the human in the loop by raising warnings or errors when problems are detected. These can then be monitored, investigated, and corrected. Analysts are also required to interpret the results and provide insightful bespoke commentary.</p>",
+    "_id": "60f9118c680ed409e2f992b8",
+    "_parentId": "60f91187680ed409e2f992b7",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<ul><li><a href=\"https://best-practice-and-impact.github.io/qa-of-code-guidance/intro.html\">Duck Book</a>&nbsp;-&nbsp;<a href=\"https://best-practice-and-impact.github.io/qa-of-code-guidance/checklists.html\">Checklists</a></li><li><a href=\"https://github.com/best-practice-and-impact/rap_mvp_maturity_guidance/blob/master/Reproducible-Analytical-Pipelines-MVP.md\">RAP MVP</a></li><li><a href=\"https://www.gov.uk/service-manual/service-standard\">GDS Service Standard</a></li><li><a href=\"https://r-pkgs.org/\">R Packages, Hadley Wickham and Jenny Bryan</a></li><li><a href=\"https://github.com/ukgovdatascience/govcookiecutter\">govcookiecutter</a></li><li><a href=\"https://github.com/best-practice-and-impact/gptables/tree/main/gptables\">gptables package</a></li><li><a href=\"https://github.com/cran/fingertipsR\">fingertipsR package</a></li></ul>",
+    "_id": "60f9130b680ed409e2f992bb",
+    "_parentId": "60f91196680ed409e2f992ba",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "RAP resources",
+    "displayTitle": "RAP resources",
+    "body": "<ul><li><a href=\"https://osr.statisticsauthority.gov.uk/publication/reproducible-analytical-pipelines-overcoming-barriers-to-adoption/\">OSR RAP review</a> – findings of the Office for Statistical Regulation review into the adoption of RAP in government.</li><li><a href=\"https://best-practice-and-impact.github.io/qa-of-code-guidance/intro.html\">Duck Book</a> – guidance from the Best Practice and Impact division&nbsp;on the Quality Assurance of Code for Analysis and Research.</li><li><a href=\"https://ukgovdatascience.github.io/rap_companion/\">RAP Companion</a> - a document written by government analysts to assist to people developing a Reproducible Analytical Pipeline.</li><li><a href=\"https://the-turing-way.netlify.app/welcome.html\">The Turing Way</a> – a handbook for reproducible data science, developed by The Alan Turing Institute.</li><li><a href=\"https://learninghub.ons.gov.uk/totara/program/view.php?id=6\">Government RAP learning pathway</a> – purpose made courses to teach government analysts aspects of RAP. Request access by <a href=\"mailto:GSS.Capability@statistics.gov.uk\">emailing the GSS capability team</a>.</li><li><a href=\"https://www.udemy.com/course/reproducible-analytical-pipelines/\">RAP using R MOOC</a> &nbsp;a free online course developed alongside the RAP Companion.</li><li><a href=\"https://r-pkgs.org/index.html\">R Packages</a> – an open source book on developing R packages, written by Hadley Wickham and Jenny Bryan.</li><li><a href=\"https://github.com/ukgovdatascience/govcookiecutter\">govcookiecutter</a> – a template for creating quality assured standardised analytical projects&nbsp;in Python and R</li></ul>",
+    "_id": "60f9160d680ed409e2f992ca",
+    "_parentId": "60f915c9680ed409e2f992c9",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Get in touch",
+    "displayTitle": "Get in touch",
+    "body": "<ul><li><a href=\"mailto:gsshelp@Statistics.gov.uk\">Email the central BPI mailbox</a></li><li>Contact your <a href=\"https://gss.civilservice.gov.uk/about-us/champion-networks/reproducible-analytical-pipeline-rap-champions/#list-of-champions\">departmental RAP Champion</a></li><li>Join the rap_collaboration channel on the <a href=\"https://govdatascience.slack.com/archives/C6H22U3H9\">Gov Data Science slack</a></li></ul>",
+    "_id": "60f919ad680ed409e2f992cc",
+    "_parentId": "60f919a8680ed409e2f992cb",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "General pipeline components",
+    "displayTitle": "",
+    "body": "<p>The “get” stage could be getting data from a survey or administrative process. It could also be drawing upon existing statistics or secondary sources.</p><p>The “analyse” stage could include processing, modelling and statistical analysis.</p><p>The “report” stage could be the production of data visualisations and reports.</p>",
+    "_id": "60f985d4680ed409e2f992ce",
+    "_parentId": "60f985ce680ed409e2f992cd",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>The RAP methodology is useful for all analysts in government. You don’t have to be publishing official statistics, RAP is useful for producing tables, plots, model predictions and more. It is easiest to implement when data sources, processes and outputs are stable. RAP will provide the biggest benefit when projects are risky or time consuming, or when workflows are difficult.</p><p>&nbsp;</p><p>Starting the journey towards RAP can be intimidating, but the benefits are worth it. Most departments have at least one member of the cross-governmental RAP Champions network. Your RAP Champion can provide advice and support as you transition towards reproducible analysis.</p>",
+    "_id": "610d4228680ed409e2f99483",
+    "_parentId": "610d41bc680ed409e2f99482",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "The RAP Minimum Viable Product",
+    "displayTitle": "The RAP Minimum Viable Product",
+    "body": "<p>At a minimum, a RAP must:</p><ul><li>Augment extant technical and quality assurance processes with&nbsp;<a href=\"https://best-practice-and-impact.github.io/qa-of-code-guidance/peer_review.html\"><strong>peer review</strong></a>&nbsp;to ensure that the process is reproducible and that the below requirements have been met.</li><li><strong>Minimise manual steps</strong>, for example copy-paste, point-click or drag-drop steps. Where it is absolutely necessary to include a manual step in the process this must be documented as described below.</li><li>Be built using&nbsp;<strong>open source software</strong>&nbsp;which is available to anyone, preferably R or Python.</li><li>Guarantee an&nbsp;<strong>audit trail</strong>&nbsp;using&nbsp;<a href=\"https://best-practice-and-impact.github.io/qa-of-code-guidance/version_control.html#why-do-we-need-version-control\">version control software</a>, preferably Git.</li><li>Be&nbsp;<a href=\"https://best-practice-and-impact.github.io/qa-of-code-guidance/project_documentation.html#open-source-your-code-span-role-image-aria-label-difficulty-rating-2-out-of-5-span\"><strong>open to anyone</strong></a>. This can be facilitated most easily through the use of file and code sharing platforms.</li><li>Follow&nbsp;<strong>existing good practice for quality assurance</strong>&nbsp;- guidance set by departments or organisations, and by the Good Practice Team for the Government Statistical Service.</li><li>Contain&nbsp;<a href=\"https://best-practice-and-impact.github.io/qa-of-code-guidance/code_documentation.html#comments-span-role-image-aria-label-difficulty-rating-1-out-of-5-span\"><strong>well-commented</strong></a>&nbsp;code and have&nbsp;<a href=\"https://best-practice-and-impact.github.io/qa-of-code-guidance/project_documentation.html\"><strong>documentation embedded</strong></a>&nbsp;within the product, rather than saved elsewhere.</li></ul>",
+    "_id": "610d43d0680ed409e2f9948a",
+    "_parentId": "610d43aa680ed409e2f99489",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "cBlock-02",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>The use of other elements of RAP should be proportionate to the risk and complexity of our analysis. Guidance of what level assurance is required can be found it the Duck Book’s Code Quality Assurance Checklists.</p><p>When introducing RAP into our projects, the best approach is:</p><ul><li>Start small and grow, for example use one element of RAP or RAP one part of the pipeline. This will help demonstrate value early on.</li><li>Learn by doing, aided by just-in-time teaching. This means that people pick up the necessary skills just as they need them and put them into practice straight away.</li><li>Have the team learn together. This can be done by paired working and mentoring relationships.</li><li>Use best practice from the beginning. This maximises the benefit of applying RAP techniques, which become harder to implement down the line.</li></ul><p>A successful transition to RAP will be aided by:</p><ul><li>Commitment from managers and team members</li><li>Starting off with a base level of technical understanding – the minimum is basic skills in our programming language of choice.</li><li>Having the right tools in place.</li><li>Allocating time for the team to contribute, outside of their other responsibilities.</li><li>Having a plan for the new pipeline to transition to business as usual.</li></ul>",
+    "_id": "610d4458680ed409e2f9948c",
+    "_parentId": "610d4452680ed409e2f9948b",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>Traditionally, most public sector analysts have managed their projects using a Waterfall approach. Using Waterfall, projects are divided into distinct, sequential phases, for example:</p><ol><li>discovery and conceptualisation</li><li>planning</li><li>launch and execution</li><li>performance and control</li><li>decommissioning and closure.</li></ol><p>Each phase must be completed and signed off before moving on to the next. The phases might be done by different people, or even by different teams.</p>",
+    "_id": "610d459a680ed409e2f99490",
+    "_parentId": "610d4586680ed409e2f9948f",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "textinput",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Self reflection exercise",
+    "displayTitle": "Self reflection exercise",
+    "body": "<p>Think about a piece of analysis you have worked on.&nbsp;</p><p>What does each stage look like? How long does it take?</p>",
+    "_id": "610d4c07680ed409e2f99499",
+    "_parentId": "61658e3a680ed409e2f99ac6",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "_answers": [],
+        "prefix": "",
+        "suffix": "",
+        "placeholder": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": false,
+    "_canShowFeedback": false,
+    "_canShowMarking": false,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_allowsAnyCase": false,
+    "_allowsPunctuation": false,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>Each stage of an analytical pipeline should be underpinned by a quality assurance (QA) process. This is to ensure&nbsp;it has been accurately performed. Traditionally, the QA&nbsp;process involves&nbsp;an independent person checking or recreating each stage of the pipeline. This sort of repetitive checking is difficult for humans and is very time consuming. Even the most diligent analyst will get fatigued and distracted when checking a spreadsheet cell by cell. <a href=\"https://arxiv.org/ftp/arxiv/papers/1602/1602.02601.pdf\">Research on spreadsheet error found that 94% of spreadsheets contained errors and average error detection rates are only 60%.</a></p>",
+    "_id": "610d4e60680ed409e2f9949b",
+    "_parentId": "610d513f680ed409e2f9949f",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "textinput",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Self reflection exercise",
+    "displayTitle": "Self reflection exercise",
+    "body": "<p>Think about a piece of analysis you have worked on. Was the process collaborative or did&nbsp;it just rely on one person? Was the pipeline well documented or would essential knowledge be lost if an analyst left?</p>",
+    "_id": "610d4e9d680ed409e2f9949e",
+    "_parentId": "610d4e98680ed409e2f9949c",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "_answers": [],
+        "prefix": "",
+        "suffix": "",
+        "placeholder": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": false,
+    "_canShowFeedback": false,
+    "_canShowMarking": false,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_allowsAnyCase": false,
+    "_allowsPunctuation": false,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>Implementing even one of the RAP techniques will improve the trustworthiness and quality of our analysis. However, the network defines the RAP MVP as follows:</p>",
+    "_id": "611cc0e1680ed409e2f99557",
+    "_parentId": "611cc0c9680ed409e2f99556",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Generalised pipeline diagram",
+    "displayTitle": "",
+    "body": "",
+    "_id": "61321944680ed409e2f995ce",
+    "_parentId": "60f81291680ed409e2f99269",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "Process starts with \"get\", which leads to \"analyse\", finishing with \"report\"",
+      "large": "course/en/assets/135d8dcebff39c7506f02d2de06050d91b2469c4.png",
+      "small": "course/en/assets/135d8dcebff39c7506f02d2de06050d91b2469c4.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Generalised pipeline diagram with QA",
+    "displayTitle": "",
+    "body": "",
+    "_id": "61321f00680ed409e2f995d2",
+    "_parentId": "610d52d1680ed409e2f994a2",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "\"get\" leading to \"analyse\", leading to \"report\", all underpinned by \"QA\"",
+      "large": "course/en/assets/ac8b5d3fec8b457fd4232510fbe8dca91b19c339.png",
+      "small": "course/en/assets/ac8b5d3fec8b457fd4232510fbe8dca91b19c339.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "cBlock-03",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Hadley Wickham quote",
+    "displayTitle": "",
+    "body": "<blockquote><p>“Packages are the fundamental units of&nbsp;reproducible R code. They include reusable R&nbsp;functions, the documentation that describes&nbsp;how to use them, and sample data”​</p></blockquote><p>Hadley Wickham, tidyverse developer and Chief Scientist at RStudio</p>",
+    "_id": "61405e95680ed409e2f998a7",
+    "_parentId": "61405e74680ed409e2f998a6",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "61406391680ed409e2f998a9",
+    "_parentId": "61408932680ed409e2f998c8",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "Python Package Index (PyPI) logo",
+      "large": "course/en/assets/f9366c64d591e4b0bddb322d43d10f37b4ee5327.svg",
+      "small": "course/en/assets/f9366c64d591e4b0bddb322d43d10f37b4ee5327.svg",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "git logos",
+    "displayTitle": "",
+    "body": "",
+    "_id": "614073e9680ed409e2f998ae",
+    "_parentId": "60f828fa680ed409e2f9929f",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "git logo",
+      "large": "course/en/assets/53cf2ced90879197ddb291a575bf831a8d713f56.png",
+      "small": "course/en/assets/53cf2ced90879197ddb291a575bf831a8d713f56.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "614085cb680ed409e2f998be",
+    "_parentId": "60f8233c680ed409e2f99297",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "Python logo and R logo",
+      "large": "course/en/assets/f2e2ea5b6fcbf9566b0cb46b7cbe115dce641c98.png",
+      "small": "course/en/assets/f2e2ea5b6fcbf9566b0cb46b7cbe115dce641c98.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "cBlock-03",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<blockquote><p>\"Why is reproducibility so important? Reproducibility is important because&nbsp;<strong>it is the only thing that an investigator can guarantee about a study</strong>.\"</p></blockquote><p>Rodger D. Peng,&nbsp;Professor of Biostatistics at Johns Hopkins Bloomberg School of Public Health</p>",
+    "_id": "6140871a680ed409e2f998c3",
+    "_parentId": "614086fe680ed409e2f998c2",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "cBlock-03",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>Packages can be uploaded to the Python Package Index (PyPI) or Comprehensive R Archive Network (CRAN), or shared on GitHub.</p>",
+    "_id": "61408976680ed409e2f998c9",
+    "_parentId": "61408932680ed409e2f998c8",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Temporary simple traditional pipeline",
+    "displayTitle": "",
+    "body": "",
+    "_id": "61658171680ed409e2f99abb",
+    "_parentId": "6165814d680ed409e2f99aba",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/c3bbf93ff39910ee0dab11d417d2a9b25c1fff65.png",
+      "small": "course/en/assets/c3bbf93ff39910ee0dab11d417d2a9b25c1fff65.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Temporary complex traditional pipeline",
+    "displayTitle": "",
+    "body": "",
+    "_id": "616584c5680ed409e2f99ac2",
+    "_parentId": "61658260680ed409e2f99ac1",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/3f245eba6cb255b48546501e25d69fbb6f9f6d57.png",
+      "small": "course/en/assets/3f245eba6cb255b48546501e25d69fbb6f9f6d57.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Temporary reproducible analytical pipeline",
+    "displayTitle": "",
+    "body": "",
+    "_id": "61658f54680ed409e2f99ac7",
+    "_parentId": "60f91164680ed409e2f992b5",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/46238c4ae1cbed7e954dd35d5b8587eebde8c97d.png",
+      "small": "course/en/assets/46238c4ae1cbed7e954dd35d5b8587eebde8c97d.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>Using a programming language such as R or Python allows us to automate the manual steps in our pipelines. We can dramatically reduce the need to move data between different software environments. Instead, we can import the data once and then run all our cleaning, processing, and analysis from a single script. We can remove copy-paste steps by generating our data visualisations and reports in the same place that we do our analysis. Using tools like R Markdown and Jupyter Notebooks, we can directly generate webpages, PDFs and presentation slides at the same time as running our analysis.</p>",
+    "_id": "6165942a680ed409e2f99ad1",
+    "_parentId": "61659383680ed409e2f99acd",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>We can further enhance our version control by using a Git hosting platform, for example GitHub, GitLab or Bitbucket. These platforms can be internally facing, but should be public wherever possible. Maximising transparency is a key RAP principles and can boost trust and collaboration.</p>",
+    "_id": "61659844680ed409e2f99ade",
+    "_parentId": "60f82c53680ed409e2f992a1",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6165985a680ed409e2f99adf",
+    "_parentId": "60f82c53680ed409e2f992a1",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "GitHub, GitLab and Bitbucket logos",
+      "large": "course/en/assets/5500a5642a7c2c0a0532aa025853b0dae6f8708c.png",
+      "small": "course/en/assets/5500a5642a7c2c0a0532aa025853b0dae6f8708c.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "graphicwithlink",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6165a36e680ed409e2f99afb",
+    "_parentId": "60f910e9680ed409e2f992ae",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "Example continuous integration run summary",
+      "large": "course/en/assets/17e3b8f6a4afeb92a243b1a81297c4cf22cfacb9.png",
+      "small": "course/en/assets/17e3b8f6a4afeb92a243b1a81297c4cf22cfacb9.png",
+      "attribution": "",
+      "url": "https://github.com/best-practice-and-impact/CARS-2/actions"
+    }
+  },
+  {
+    "_component": "graphicwithlink",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Example GitHub repo",
+    "displayTitle": "",
+    "body": "<p>Example of a GitHub repository, showing commits and a comment from a reviewer</p>",
+    "_id": "6165a742680ed409e2f99aff",
+    "_parentId": "60f9876d680ed409e2f992cf",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "Example GitHub repo",
+      "large": "course/en/assets/0a3b68ce2e4eb4e3e8fcc1614fbfc99bd2304d2d.png",
+      "small": "course/en/assets/0a3b68ce2e4eb4e3e8fcc1614fbfc99bd2304d2d.png",
+      "attribution": "",
+      "url": "https://github.com/ukgovdatascience/eesectors/commits/master"
+    }
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Example reports",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6165a8f8680ed409e2f99b06",
+    "_parentId": "60f823de680ed409e2f99299",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p>Example rmarkdown report</p>",
+        "_graphic": {
+          "src": "course/en/assets/f38b04edd35a4c5f350c724e8bde029faac33cf2.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Example rmarkdown report"
+      },
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p>Example jupyter report</p>",
+        "_graphic": {
+          "src": "course/en/assets/876a130b41cea7d25d92367af2c0b215360564b9.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Example jupyter report"
+      }
+    ]
+  },
+  {
+    "_component": "text",
+    "_classes": "cBlock-02",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Example",
+    "displayTitle": "Example",
+    "body": "<ol><li>Alex has an idea for a new experimental statistic. They identify potential stakeholders and set project goals. They then submit this initial concept to the leadership team.</li><li>The leadership team like the initial concept and have asked Becky to manage the project. She first gathers stakeholder requirements. She then creates a plan, setting out the schedule and budget for the project. She also recruits a team of analysts.</li><li>Charles is the senior analyst on the team for this project. He creates a technical design and his team work hard to create an end-to-end pipeline for the new statistic.</li><li>Whilst Charles is building the pipeline, Becky monitors his progress. She makes sure he sticks to the plan and deadlines.</li><li>Once the pipeline is finished, it is handed over to Dan in the Operations team. Becky produces a final report on the quality of the work and whether it was completed to budget and deadlines.</li></ol>",
+    "_id": "6165ad42680ed409e2f99b10",
+    "_parentId": "6149f259680ed409e2f99a6d",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Waterfall flowchart",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6165ad7d680ed409e2f99b12",
+    "_parentId": "6165ad78680ed409e2f99b11",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "Flowchart of Waterfall process: Discovery, followed by Planning, followed by Execution, followed by Performance, concluding with Close",
+      "large": "course/en/assets/36170093fa770ce735a398d2c09e608c789a78d3.png",
+      "small": "course/en/assets/36170093fa770ce735a398d2c09e608c789a78d3.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>There are several issues with this way of working:</p><ul><li>Requirement gathering is completed early in the process. This requires stakeholders to be very clear on what they need from the beginning and not change their minds.</li><li>User researchers, developers and operational staff are deliberately separated. This is traditionally done so you only pay for the talent you need at any given time. However, this can mean that developers don’t understand user needs and operators don’t understand the pipelines they are running.&nbsp;</li><li>Working software is only delivered at the end of the project. This is the first time the customer sees the software.&nbsp;If they are not happy with what is delivered, the whole process must be repeated.</li></ul><p>When we are doing analysis in the public sector, requirements are not always clear. Policy officials may not be able to clearly define their technical requirements and the public need can change. Elected officials and the public should be able to audit our work at any time. Fortunately, there is an existing approach to managing software engineering projects that meets these aims...</p>",
+    "_id": "6165ae4f680ed409e2f99b17",
+    "_parentId": "6165ae47680ed409e2f99b16",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>The best way to manage a reproducible analytical pipeline is by taking an Agile approach. In practice, this means prioritising user needs, working software and empowered teams.</p>",
+    "_id": "6165aeac680ed409e2f99b1a",
+    "_parentId": "6165ae98680ed409e2f99b19",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6165aedc680ed409e2f99b1c",
+    "_parentId": "6165aeca680ed409e2f99b1b",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "User Needs",
+        "body": "<p>When creating a RAP, we should identify our users early and focus on their needs. Agile requirements are often communicated in the form of User Stories. That is, an informal explanation of what a user needs to do and why, rather than a detailed specification of how to code a feature. These are commonly structured as follows:</p><p>“As a &lt;person&gt;, I &lt;want to&gt;, &lt;so that&gt;.”</p><p>For example,&nbsp; “As a DfT policy official, I want to understand the locations of traffic jams, so that I can allocate infrastructure funding.”.</p><p>We consider a story completed when the user need is met.</p><p>Unlike in Waterfall, in Agile we welcome changing requirements. This is because users refining their requirements will result in a better final product. It also puts less pressure on users to create highly specific descriptions before they have seen any tangible examples.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Working Software",
+        "body": "<p>In Agile, working software is considered the primary measure of success. This means that we don’t spend months creating detailed plans and documenting specifications. Instead, we prioritise early and continuous delivery of working software. With RAP, this means creating a runnable pipeline as soon as possible. We then iterate based on stakeholder requirements. Different teams work to different schedules, but we should ideally have a deliverable increment at least every couple of weeks.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Teams",
+        "body": "<p>Agile acknowledges that the best outcomes come from self-organising teams. Agile teams build a strong relationship with their users and then work together to meet their users needs. Rather than day-to-day work being dictated by a manager, teams allocate tasks between themselves and hold each other to account.</p><p>Agile teams should be “cross-functional”. They should be made up of people from different disciplines, working towards a common goal. In Agile, these people are often referred to as “developers”, but that doesn’t just mean people who code. When producing a RAP, the team should have the skills to gather user requirements; design, implement and test the pipeline; and disseminate the results. Whilst these are all specialist skills, team members should be willing to expand their areas of expertise as required to remove blockers.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Development",
+        "body": "<p>At every increment, we should be delivering technical excellence and good design. This can be encouraged by including acceptance criteria with each user story. For example, the acceptance criteria for a new pipeline feature might be:</p><ul><li>Feature is written as functions with docstrings.</li><li>Unit tests have been written for each function and they all pass.</li><li>Code has been reviewed by at least one other member of the team.</li></ul><p>Agile practitioners may use terms like “<a href=\"https://www.atlassian.com/agile/scrum/sprints\">sprint</a>” or “<a href=\"https://www.agilealliance.org/glossary/xp/\">extreme programming</a>” that sound exhausting, but teams should have a sustainable pace of development. Developers should be able to maintain their pace indefinitely without burning out.</p><p>Alongside regular delivery, our teams should also be regularly reflecting on their work. This means looking at the quality of our pipelines, but also how we are working as a team. Where we find places for improvement, we should adjust the way we work.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": false
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>In February of 2001, 17 prominent members of the software engineering community gathered in the mountains of Utah. Their aim was to agree on an alternative to “documentation driven, heavyweight software development processes”. The result of this weekend gathering was known as the Agile Manifesto and this group of people became the founders of the Agile Alliance. &nbsp;</p>",
+    "_id": "6165afbd680ed409e2f99b1f",
+    "_parentId": "6165afa2680ed409e2f99b1e",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "matching",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "616c3f98680ed409e2f99b24",
+    "_parentId": "616c3f82680ed409e2f99b23",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "The Agile Manifesto is made up four key values. Select an option from each drop-down menu to complete the values below:",
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldResetAllAnswers": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "placeholder": "Please select an option",
+    "_items": [
+      {
+        "text": "Value 1:",
+        "_options": [
+          {
+            "text": "Individuals and interactions over processes and tools",
+            "_isCorrect": true
+          },
+          {
+            "text": "Processes and tools over individuals and interactions",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Value 2:",
+        "_options": [
+          {
+            "text": "Working software over comprehensive documentation",
+            "_isCorrect": true
+          },
+          {
+            "text": "Comprehensive documentation over working software",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Value 3:",
+        "_options": [
+          {
+            "text": "Customer collaboration over contract negotiation",
+            "_isCorrect": true
+          },
+          {
+            "text": "Contract negotiation over customer collaboration",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Value 4:",
+        "_options": [
+          {
+            "text": "Responding to change over following a plan",
+            "_isCorrect": true
+          },
+          {
+            "text": "Following a plan over responding to change",
+            "_isCorrect": false
+          }
+        ]
+      }
+    ],
+    "_feedback": {
+      "title": "The Agile Manifesto",
+      "correct": "<p>We are uncovering better ways of developing software by doing it and helping others do it.<br />Through this work we have come to value:</p><p><strong>Individuals and interactions&nbsp;</strong>over processes and tools</p><p><strong>Working software</strong>&nbsp;over comprehensive documentation</p><p><strong>Customer collaboration</strong>&nbsp;over contract negotiation</p><p><strong>Responding to change</strong>&nbsp;over following a plan</p><p>That is, while there is value in the items on the right, we value the items on the left&nbsp;more.</p>",
+      "_incorrect": {
+        "final": "<p>We are uncovering better ways of developing software by doing it and helping others do it.<br />Through this work we have come to value:</p><p><strong>Individuals and interactions&nbsp;</strong>over processes and tools</p><p><strong>Working software</strong>&nbsp;over comprehensive documentation</p><p><strong>Customer collaboration</strong>&nbsp;over contract negotiation</p><p><strong>Responding to change</strong>&nbsp;over following a plan</p><p>That is, while there is value in the items on the right, we value the items on the left&nbsp;more.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>Out of the Agile Manifesto come the 12 Principles of Agile:</p><ol><li>Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.</li><li>Welcome changing requirements, even late in development. Agile processes harness change for the customer’s competitive advantage.</li><li>Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.</li><li>Business people and developers must work together daily throughout the project.</li><li>Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.</li><li>The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.</li><li>Working software is the primary measure of progress.</li><li>Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.</li><li>Continuous attention to technical excellence and good design enhances agility.</li><li>Simplicity–the art of maximizing the amount of work not done–is essential.</li><li>The best architectures, requirements, and designs emerge from self-organizing teams.</li><li>At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.</li></ol>",
+    "_id": "616c41e2680ed409e2f99b26",
+    "_parentId": "616c4119680ed409e2f99b25",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>Since 2001, several frameworks have gained popularity amongst Agile practitioners. These frameworks encourage and support people to adopt the principles of the Agile Manifesto. When working on a reproducible analytical pipeline, the two most popular frameworks are Scrum and Kanban.</p><p>The Scrum framework is structured around Sprints – fixed periods of time with set goals. At the end of each Sprint, the team should have a deliverable increment to share with key stakeholders. Working in this cycle of delivery and reflection allows teams members to get regular feedback from each other and their users, and instantly implement it in their work.</p><p>The Kanban framework is structured around the Kanban board. At its simplest, a Kanban board is a table with three columns: To Do, In Progress and Done. User stories are written up on cards that get moved through the columns as the work is completed. This allows for full transparency and real-time communication.</p><p>Both Scrum and Kanban can help us on our journey to an Agile way of working. When starting out, it can be helpful to choose one framework and try to implement it. Scrum works well for long term projects as it provides a clear structure and roles. Kanban is a great choice for projects with lots of incoming requests that vary in priority and size. Whatever framework we end up using, our team should always to be looking to improve, and focusing on user needs and delivering a quality reproducible analytical pipeline.</p>",
+    "_id": "616c425d680ed409e2f99b29",
+    "_parentId": "616c422e680ed409e2f99b28",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<ul><li><a href=\"https://www.agilealliance.org/agile-essentials/\">Agile Alliance</a></li><li><a href=\"https://scrumguides.org/scrum-guide.html\">Scrum Alliance</a></li><li><a href=\"https://www.atlassian.com/agile\">Atlassian Agile Coach</a></li><li><a href=\"https://www.gov.uk/service-manual/agile-delivery\">Government Digital Service Agile Guidance</a></li><li><a href=\"https://gss.civilservice.gov.uk/policy-store/user-engagement-top-tips/\">Analysis Function User Engagement Top Tips</a></li><li><a href=\"https://officenationalstatistics.sharepoint.com/sites/BPI/BuildCap/BPI_e-learning_delivery_group/Courses/Introduction_to_RAP/Agile%20Manifesto\">Agile Manifesto</a></li><li><a href=\"https://www.prince2.com/uk/blog/project-management-timeline\">PRINCE2 Waterfall timeline</a></li></ul>",
+    "_id": "616c429a680ed409e2f99b2c",
+    "_parentId": "616c426c680ed409e2f99b2b",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  }
+]
