@@ -1,12 +1,12 @@
 {
   "title": "Introduction to Reproducible Analytical Pipelines (RAP)",
   "displayTitle": "Introduction to Reproducible Analytical Pipelines (RAP)",
-  "body": "<p>Welcome to the Introduction to Reproducible Analytical Pipelines (RAP)&nbsp;e-learning course. This course will:</p><ul><li>Enthuse you about the benefits of RAP</li><li>Give you a broad understanding of how RAP works</li><li>Signpost you to further resources</li></ul><p>This course has been created by the Best Practice and Impact division. For any further information or support, please contact <a href=\"mailto:gsshelp@statistics.gov.uk\">GSSHelp@statistics.gov.uk</a>.&nbsp;</p>",
+  "body": "<p>Welcome to the Introduction to Reproducible Analytical Pipelines (RAP)&nbsp;e-learning course. This course will:</p><ul><li>Enthuse you about the benefits of RAP</li><li>Give you a broad understanding of how RAP works</li><li>Signpost you to further resources</li></ul><p>This course has been created by the Analysis Function. For any further information or support, please contact <a href=\"mailto:gsshelp@statistics.gov.uk\">GSSHelp@statistics.gov.uk</a>.&nbsp;</p>",
   "subtitle": "",
   "description": "",
   "instruction": "",
   "_htmlClasses": "",
-  "_latestTrackingId": 66,
+  "_latestTrackingId": 54,
   "_buttons": {
     "_submit": {
       "buttonText": "Submit",
@@ -293,7 +293,7 @@
     "_isShownInNavigationBar": true
   },
   "_resources": {
-    "_isEnabled": true,
+    "_isEnabled": false,
     "_drawerOrder": 0,
     "title": "Resources",
     "description": "Select here to view resources for this course",
@@ -328,9 +328,6 @@
       }
     ]
   },
-  "_spoor": {
-    "_messages": ""
-  },
   "_bookmarking": {
     "_isEnabled": true,
     "_level": "page",
@@ -341,6 +338,9 @@
       "yes": "Yes",
       "no": "No"
     }
+  },
+  "_spoor": {
+    "_messages": ""
   },
   "_boxMenu": {
     "_backgroundImage": {
