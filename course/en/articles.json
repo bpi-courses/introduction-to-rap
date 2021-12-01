@@ -1,8 +1,8 @@
 [
   {
-    "title": "Analysis in Government",
-    "displayTitle": "",
-    "body": "",
+    "title": "Analysis in government",
+    "displayTitle": "Analysis in government",
+    "body": "<p>Good quality evidence is key to making better decisions. Departments across government collect and analyse data for a wide variety of outputs. These outputs include official statistics, operational reports and predictive models for policy making.</p>",
     "_classes": "",
     "instruction": "",
     "_isOptional": false,
@@ -72,7 +72,7 @@
       }
     },
     "_pageLevelProgress": {
-      "_isEnabled": false,
+      "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
     "_vanilla": {
@@ -107,7 +107,7 @@
   {
     "title": "New Article Title",
     "displayTitle": "",
-    "body": "",
+    "body": "<p>The RAP process is based on several core principles. These principals combine to:</p><ul><li>Increase quality</li><li>Enhance trust</li><li>Boost efficiency</li><li>Better business continuity and knowledge management</li></ul>",
     "_classes": "",
     "instruction": "",
     "_isOptional": false,
@@ -194,8 +194,8 @@
     }
   },
   {
-    "title": "New Article Title",
-    "displayTitle": "",
+    "title": "Open source language for analysis and dissemination",
+    "displayTitle": "Open source language for analysis and dissemination",
     "body": "",
     "_classes": "",
     "instruction": "",
@@ -205,40 +205,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "60f8217c680ed409e2f99293",
+    "_id": "60f8233c680ed409e2f99296",
     "_parentId": "60f8217c680ed409e2f99292",
-    "_type": "article"
-  },
-  {
-    "title": "New Article Title",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "",
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "60f915c9680ed409e2f992c8",
-    "_parentId": "60f915c9680ed409e2f992c7",
-    "_type": "article"
-  },
-  {
-    "title": "Traditional Project Management",
-    "displayTitle": "Traditional Project Management",
-    "body": "",
-    "_classes": "",
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "610d4586680ed409e2f9948e",
-    "_parentId": "610d4586680ed409e2f9948d",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -299,6 +267,111 @@
     },
     "_pageLevelProgress": {
       "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      }
+    }
+  },
+  {
+    "title": "New Article Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "60f915c9680ed409e2f992c8",
+    "_parentId": "60f915c9680ed409e2f992c7",
+    "_type": "article"
+  },
+  {
+    "title": "New Article Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "6193af83680ed409e2f99caa",
+    "_parentId": "610d4586680ed409e2f9948d",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_isEnabled": false,
+      "_id": "",
+      "_attempts": -1,
+      "_isPercentageBased": true,
+      "_scoreToPass": 60,
+      "_includeInTotalScore": true,
+      "_assessmentWeight": 1,
+      "_suppressMarking": false,
+      "_isResetOnRevisit": false,
+      "_allowResetIfPassed": false,
+      "_randomisation": {
+        "_isEnabled": false,
+        "_blockCount": -1
+      },
+      "_banks": {
+        "_isEnabled": false,
+        "_split": "",
+        "_randomisation": false
+      },
+      "_questions": {
+        "_resetType": "soft",
+        "_canShowFeedback": false,
+        "_canShowMarking": false,
+        "_canShowModelAnswer": false
+      }
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_onChildren": false,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": false,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "_vanilla": {
@@ -405,7 +478,7 @@
   },
   {
     "title": "Reproducible",
-    "displayTitle": "Reproducible",
+    "displayTitle": "",
     "body": "",
     "_classes": "",
     "instruction": "",
@@ -476,7 +549,7 @@
       }
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "_vanilla": {
@@ -493,8 +566,8 @@
     }
   },
   {
-    "title": "Open-Source Language for Analysis and Dissemination",
-    "displayTitle": "Open-Source Language for Analysis and Dissemination",
+    "title": "New Article Title",
+    "displayTitle": "",
     "body": "",
     "_classes": "",
     "instruction": "",
@@ -504,7 +577,7 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "60f8233c680ed409e2f99296",
+    "_id": "60f828fa680ed409e2f9929e",
     "_parentId": "60f8217c680ed409e2f99292",
     "_type": "article",
     "_onScreen": {
@@ -565,7 +638,7 @@
       }
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "_vanilla": {
@@ -582,18 +655,18 @@
     }
   },
   {
-    "title": "Agile",
-    "displayTitle": "Agile",
+    "title": "New Article Title",
+    "displayTitle": "",
     "body": "",
     "_classes": "",
     "instruction": "",
-    "_isOptional": false,
+    "_isOptional": true,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "6165ae98680ed409e2f99b18",
+    "_id": "610d4586680ed409e2f9948e",
     "_parentId": "610d4586680ed409e2f9948d",
     "_type": "article",
     "_onScreen": {
@@ -654,7 +727,7 @@
       }
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "_vanilla": {
@@ -673,7 +746,7 @@
   {
     "title": "What is the problem with this way of working?",
     "displayTitle": "What is the problem with this way of working?",
-    "body": "",
+    "body": "<p>Pipelines often contain manual steps, for example copy-pasting or manually moving data. Each manual step is an opportunity to make a mistake. The more times the analysis is repeated, the greater the chance of an error.</p><p>It is difficult to document manual steps in a pipeline. Where documentation does not exist, knowledge becomes siloed in individual analysts. Where it does exists, it often forms lengthy desk instructions. This documentation focuses on practical information rather than the analytical decisions made. It can get separated from the analysis and become outdated. Often neither the documentation nor the raw analysis is shared with the public or external experts.</p>",
     "_classes": "",
     "instruction": "",
     "_isOptional": false,
@@ -761,7 +834,7 @@
   },
   {
     "title": "Auditable",
-    "displayTitle": "Auditable",
+    "displayTitle": "",
     "body": "",
     "_classes": "",
     "instruction": "",
@@ -849,365 +922,9 @@
     }
   },
   {
-    "title": "Version Control",
-    "displayTitle": "Version Control",
-    "body": "",
-    "_classes": "",
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "60f828fa680ed409e2f9929e",
-    "_parentId": "60f8217c680ed409e2f99292",
-    "_type": "article",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_isEnabled": false,
-      "_id": "",
-      "_attempts": -1,
-      "_isPercentageBased": true,
-      "_scoreToPass": 60,
-      "_includeInTotalScore": true,
-      "_assessmentWeight": 1,
-      "_suppressMarking": false,
-      "_isResetOnRevisit": false,
-      "_allowResetIfPassed": false,
-      "_randomisation": {
-        "_isEnabled": false,
-        "_blockCount": -1
-      },
-      "_banks": {
-        "_isEnabled": false,
-        "_split": "",
-        "_randomisation": false
-      },
-      "_questions": {
-        "_resetType": "soft",
-        "_canShowFeedback": false,
-        "_canShowMarking": false,
-        "_canShowModelAnswer": false
-      }
-    },
-    "_trickle": {
-      "_isEnabled": false,
-      "_autoScroll": false,
-      "_scrollDuration": 500,
-      "_onChildren": false,
-      "_scrollTo": "@block +1",
-      "_button": {
-        "_isEnabled": false,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": false,
-        "_className": "",
-        "_hasIcon": false,
-        "text": "Continue",
-        "startText": "Begin",
-        "finalText": "Finish",
-        "_component": "trickle-button"
-      },
-      "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      }
-    }
-  },
-  {
-    "title": "Agile Manifesto",
-    "displayTitle": "Agile Manifesto",
-    "body": "",
-    "_classes": "",
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "6165afa2680ed409e2f99b1d",
-    "_parentId": "610d4586680ed409e2f9948d",
-    "_type": "article",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_isEnabled": false,
-      "_id": "",
-      "_attempts": -1,
-      "_isPercentageBased": true,
-      "_scoreToPass": 60,
-      "_includeInTotalScore": true,
-      "_assessmentWeight": 1,
-      "_suppressMarking": false,
-      "_isResetOnRevisit": false,
-      "_allowResetIfPassed": false,
-      "_randomisation": {
-        "_isEnabled": false,
-        "_blockCount": -1
-      },
-      "_banks": {
-        "_isEnabled": false,
-        "_split": "",
-        "_randomisation": false
-      },
-      "_questions": {
-        "_resetType": "soft",
-        "_canShowFeedback": false,
-        "_canShowMarking": false,
-        "_canShowModelAnswer": false
-      }
-    },
-    "_trickle": {
-      "_isEnabled": false,
-      "_autoScroll": false,
-      "_scrollDuration": 500,
-      "_onChildren": false,
-      "_scrollTo": "@block +1",
-      "_button": {
-        "_isEnabled": false,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": false,
-        "_className": "",
-        "_hasIcon": false,
-        "text": "Continue",
-        "startText": "Begin",
-        "finalText": "Finish",
-        "_component": "trickle-button"
-      },
-      "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      }
-    }
-  },
-  {
-    "title": "Module references and further resources",
-    "displayTitle": "Module references and further resources",
-    "body": "",
-    "_classes": "",
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "60f7e306680ed409e2f99252",
-    "_parentId": "60cb2df9680ed409e2f98e2e",
-    "_type": "article",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_isEnabled": false,
-      "_id": "",
-      "_attempts": -1,
-      "_isPercentageBased": true,
-      "_scoreToPass": 60,
-      "_includeInTotalScore": true,
-      "_assessmentWeight": 1,
-      "_suppressMarking": false,
-      "_isResetOnRevisit": false,
-      "_allowResetIfPassed": false,
-      "_randomisation": {
-        "_isEnabled": false,
-        "_blockCount": -1
-      },
-      "_banks": {
-        "_isEnabled": false,
-        "_split": "",
-        "_randomisation": false
-      },
-      "_questions": {
-        "_resetType": "soft",
-        "_canShowFeedback": false,
-        "_canShowMarking": false,
-        "_canShowModelAnswer": false
-      }
-    },
-    "_trickle": {
-      "_isEnabled": false,
-      "_autoScroll": false,
-      "_scrollDuration": 500,
-      "_onChildren": false,
-      "_scrollTo": "@block +1",
-      "_button": {
-        "_isEnabled": false,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": false,
-        "_className": "",
-        "_hasIcon": false,
-        "text": "Continue",
-        "startText": "Begin",
-        "finalText": "Finish",
-        "_component": "trickle-button"
-      },
-      "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      }
-    }
-  },
-  {
-    "title": "Assured",
-    "displayTitle": "Assured",
-    "body": "",
-    "_classes": "",
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "60f816b5680ed409e2f99278",
-    "_parentId": "60f7ea58680ed409e2f99258",
-    "_type": "article",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_isEnabled": false,
-      "_id": "",
-      "_attempts": -1,
-      "_isPercentageBased": true,
-      "_scoreToPass": 60,
-      "_includeInTotalScore": true,
-      "_assessmentWeight": 1,
-      "_suppressMarking": false,
-      "_isResetOnRevisit": false,
-      "_allowResetIfPassed": false,
-      "_randomisation": {
-        "_isEnabled": false,
-        "_blockCount": -1
-      },
-      "_banks": {
-        "_isEnabled": false,
-        "_split": "",
-        "_randomisation": false
-      },
-      "_questions": {
-        "_resetType": "soft",
-        "_canShowFeedback": false,
-        "_canShowMarking": false,
-        "_canShowModelAnswer": false
-      }
-    },
-    "_trickle": {
-      "_isEnabled": false,
-      "_autoScroll": false,
-      "_scrollDuration": 500,
-      "_onChildren": false,
-      "_scrollTo": "@block +1",
-      "_button": {
-        "_isEnabled": false,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": false,
-        "_className": "",
-        "_hasIcon": false,
-        "text": "Continue",
-        "startText": "Begin",
-        "finalText": "Finish",
-        "_component": "trickle-button"
-      },
-      "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      }
-    }
-  },
-  {
-    "title": "Modular Code",
-    "displayTitle": "Modular Code",
-    "body": "",
+    "title": "Modular code",
+    "displayTitle": "Modular code",
+    "body": "<p>When creating Reproducible Analytical Pipelines, it is important that we not only code, but code well. One important part of writing code well is making it modular. This means breaking your code down into self-contained elements, such as modules, classes, and functions. Modularising code makes it more readable, and easier to update or fix. If one part breaks or needs updating, only that part has to change.</p><p>Once we have modularised our code, we can go one step further and package it. A package is a self-contained collection of code, documentation, and example data,&nbsp;that can be imported and run. Two examples of packages written by analysts in government are gptables and fingertipsR.</p>",
     "_classes": "",
     "instruction": "",
     "_isOptional": false,
@@ -1294,7 +1011,96 @@
     }
   },
   {
-    "title": "Agile Frameworks",
+    "title": "New Article Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "6165ae98680ed409e2f99b18",
+    "_parentId": "610d4586680ed409e2f9948d",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_isEnabled": false,
+      "_id": "",
+      "_attempts": -1,
+      "_isPercentageBased": true,
+      "_scoreToPass": 60,
+      "_includeInTotalScore": true,
+      "_assessmentWeight": 1,
+      "_suppressMarking": false,
+      "_isResetOnRevisit": false,
+      "_allowResetIfPassed": false,
+      "_randomisation": {
+        "_isEnabled": false,
+        "_blockCount": -1
+      },
+      "_banks": {
+        "_isEnabled": false,
+        "_split": "",
+        "_randomisation": false
+      },
+      "_questions": {
+        "_resetType": "soft",
+        "_canShowFeedback": false,
+        "_canShowMarking": false,
+        "_canShowModelAnswer": false
+      }
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_onChildren": false,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": false,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      }
+    }
+  },
+  {
+    "title": "New Article Title",
     "displayTitle": "",
     "body": "",
     "_classes": "",
@@ -1305,7 +1111,274 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "616c422e680ed409e2f99b27",
+    "_id": "60f7e306680ed409e2f99252",
+    "_parentId": "60cb2df9680ed409e2f98e2e",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_isEnabled": false,
+      "_id": "",
+      "_attempts": -1,
+      "_isPercentageBased": true,
+      "_scoreToPass": 60,
+      "_includeInTotalScore": true,
+      "_assessmentWeight": 1,
+      "_suppressMarking": false,
+      "_isResetOnRevisit": false,
+      "_allowResetIfPassed": false,
+      "_randomisation": {
+        "_isEnabled": false,
+        "_blockCount": -1
+      },
+      "_banks": {
+        "_isEnabled": false,
+        "_split": "",
+        "_randomisation": false
+      },
+      "_questions": {
+        "_resetType": "soft",
+        "_canShowFeedback": false,
+        "_canShowMarking": false,
+        "_canShowModelAnswer": false
+      }
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_onChildren": false,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": false,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      }
+    }
+  },
+  {
+    "title": "Assured",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "60f816b5680ed409e2f99278",
+    "_parentId": "60f7ea58680ed409e2f99258",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_isEnabled": false,
+      "_id": "",
+      "_attempts": -1,
+      "_isPercentageBased": true,
+      "_scoreToPass": 60,
+      "_includeInTotalScore": true,
+      "_assessmentWeight": 1,
+      "_suppressMarking": false,
+      "_isResetOnRevisit": false,
+      "_allowResetIfPassed": false,
+      "_randomisation": {
+        "_isEnabled": false,
+        "_blockCount": -1
+      },
+      "_banks": {
+        "_isEnabled": false,
+        "_split": "",
+        "_randomisation": false
+      },
+      "_questions": {
+        "_resetType": "soft",
+        "_canShowFeedback": false,
+        "_canShowMarking": false,
+        "_canShowModelAnswer": false
+      }
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_onChildren": false,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": false,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      }
+    }
+  },
+  {
+    "title": "New Article Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "60f82dc1680ed409e2f992aa",
+    "_parentId": "60f8217c680ed409e2f99292",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_isEnabled": false,
+      "_id": "",
+      "_attempts": -1,
+      "_isPercentageBased": true,
+      "_scoreToPass": 60,
+      "_includeInTotalScore": true,
+      "_assessmentWeight": 1,
+      "_suppressMarking": false,
+      "_isResetOnRevisit": false,
+      "_allowResetIfPassed": false,
+      "_randomisation": {
+        "_isEnabled": false,
+        "_blockCount": -1
+      },
+      "_banks": {
+        "_isEnabled": false,
+        "_split": "",
+        "_randomisation": false
+      },
+      "_questions": {
+        "_resetType": "soft",
+        "_canShowFeedback": false,
+        "_canShowMarking": false,
+        "_canShowModelAnswer": false
+      }
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_onChildren": false,
+      "_scrollTo": "@block +1",
+      "_button": {
+        "_isEnabled": false,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "startText": "Begin",
+        "finalText": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      }
+    }
+  },
+  {
+    "title": "Module references and further resources",
+    "displayTitle": "Module references and further resources",
+    "body": "<p>Recommended resources:</p><ul><li><a href=\"https://www.agilealliance.org/agile-essentials/\">Agile Essentials</a>&nbsp;- introduction to Agile from the Agile Alliance</li><li><a href=\"https://scrumguides.org/scrum-guide.html\">Scrum Guide</a>&nbsp;- official guide to Scrum from the creators of the Scrum framework</li><li><a href=\"https://www.atlassian.com/agile\">Agile Coach</a>&nbsp;- guide to Agile development from Atlassian, creator of software to aid Agile development</li><li><a href=\"https://www.gov.uk/service-manual/agile-delivery\">Agile delivery</a>&nbsp;- guidance on Agile in the public sector, from the Government Digital Service&nbsp;</li><li><a href=\"https://gss.civilservice.gov.uk/policy-store/user-engagement-top-tips/\">User Engagement Top Tips</a>&nbsp;- guidance on user engagement, from the Analysis Function</li></ul><p>Additional references:</p><ul><li><a href=\"https://www.prince2.com/uk/blog/project-management-timeline\">Project management timeline: ordering all phases</a>&nbsp;- blog on Waterfall project management, from&nbsp;ILX Group,&nbsp;provider of PRINCE2 training</li></ul>",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "616c426c680ed409e2f99b2a",
     "_parentId": "610d4586680ed409e2f9948d",
     "_type": "article",
     "_onScreen": {
@@ -1384,7 +1457,7 @@
   },
   {
     "title": "Question",
-    "displayTitle": "Question",
+    "displayTitle": "",
     "body": "",
     "_classes": "",
     "instruction": "",
@@ -1472,9 +1545,9 @@
     }
   },
   {
-    "title": "Unit Testing",
-    "displayTitle": "Unit Testing",
-    "body": "",
+    "title": "Bringing it together",
+    "displayTitle": "Bringing it together",
+    "body": "<p>Bringing all these elements together is what gives us a Reproducible Analytical Pipeline. There is a direct line from importing the data, processing, analysing, right through to dissemination. Our functions are kept all together in a well-tested reusable package. We can import this package into a single script that will run our analysis and return our final output. Alongside this output, we can produce an automated quality assurance report or log, to flag&nbsp;any issues with the process.</p>",
     "_classes": "",
     "instruction": "",
     "_isOptional": false,
@@ -1483,7 +1556,7 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "60f82dc1680ed409e2f992aa",
+    "_id": "60f9113c680ed409e2f992b2",
     "_parentId": "60f8217c680ed409e2f99292",
     "_type": "article",
     "_onScreen": {
@@ -1561,97 +1634,8 @@
     }
   },
   {
-    "title": "Module References and Further Resources",
-    "displayTitle": "Module References and Further Resources",
-    "body": "",
-    "_classes": "",
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "616c426c680ed409e2f99b2a",
-    "_parentId": "610d4586680ed409e2f9948d",
-    "_type": "article",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_isEnabled": false,
-      "_id": "",
-      "_attempts": -1,
-      "_isPercentageBased": true,
-      "_scoreToPass": 60,
-      "_includeInTotalScore": true,
-      "_assessmentWeight": 1,
-      "_suppressMarking": false,
-      "_isResetOnRevisit": false,
-      "_allowResetIfPassed": false,
-      "_randomisation": {
-        "_isEnabled": false,
-        "_blockCount": -1
-      },
-      "_banks": {
-        "_isEnabled": false,
-        "_split": "",
-        "_randomisation": false
-      },
-      "_questions": {
-        "_resetType": "soft",
-        "_canShowFeedback": false,
-        "_canShowMarking": false,
-        "_canShowModelAnswer": false
-      }
-    },
-    "_trickle": {
-      "_isEnabled": false,
-      "_autoScroll": false,
-      "_scrollDuration": 500,
-      "_onChildren": false,
-      "_scrollTo": "@block +1",
-      "_button": {
-        "_isEnabled": false,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": false,
-        "_className": "",
-        "_hasIcon": false,
-        "text": "Continue",
-        "startText": "Begin",
-        "finalText": "Finish",
-        "_component": "trickle-button"
-      },
-      "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      }
-    }
-  },
-  {
-    "title": "Module references and further resources",
-    "displayTitle": "Module references and further resources",
+    "title": "New Article Title",
+    "displayTitle": "",
     "body": "",
     "_classes": "",
     "instruction": "",
@@ -1739,276 +1723,9 @@
     }
   },
   {
-    "title": "Continuous Integration",
-    "displayTitle": "Continuous Integration",
-    "body": "",
-    "_classes": "",
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "60f910e9680ed409e2f992ad",
-    "_parentId": "60f8217c680ed409e2f99292",
-    "_type": "article",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_isEnabled": false,
-      "_id": "",
-      "_attempts": -1,
-      "_isPercentageBased": true,
-      "_scoreToPass": 60,
-      "_includeInTotalScore": true,
-      "_assessmentWeight": 1,
-      "_suppressMarking": false,
-      "_isResetOnRevisit": false,
-      "_allowResetIfPassed": false,
-      "_randomisation": {
-        "_isEnabled": false,
-        "_blockCount": -1
-      },
-      "_banks": {
-        "_isEnabled": false,
-        "_split": "",
-        "_randomisation": false
-      },
-      "_questions": {
-        "_resetType": "soft",
-        "_canShowFeedback": false,
-        "_canShowMarking": false,
-        "_canShowModelAnswer": false
-      }
-    },
-    "_trickle": {
-      "_isEnabled": false,
-      "_autoScroll": false,
-      "_scrollDuration": 500,
-      "_onChildren": false,
-      "_scrollTo": "@block +1",
-      "_button": {
-        "_isEnabled": false,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": false,
-        "_className": "",
-        "_hasIcon": false,
-        "text": "Continue",
-        "startText": "Begin",
-        "finalText": "Finish",
-        "_component": "trickle-button"
-      },
-      "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      }
-    }
-  },
-  {
-    "title": "Bringing It Together",
-    "displayTitle": "Bringing It Together",
-    "body": "",
-    "_classes": "",
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "60f9113c680ed409e2f992b2",
-    "_parentId": "60f8217c680ed409e2f99292",
-    "_type": "article",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_isEnabled": false,
-      "_id": "",
-      "_attempts": -1,
-      "_isPercentageBased": true,
-      "_scoreToPass": 60,
-      "_includeInTotalScore": true,
-      "_assessmentWeight": 1,
-      "_suppressMarking": false,
-      "_isResetOnRevisit": false,
-      "_allowResetIfPassed": false,
-      "_randomisation": {
-        "_isEnabled": false,
-        "_blockCount": -1
-      },
-      "_banks": {
-        "_isEnabled": false,
-        "_split": "",
-        "_randomisation": false
-      },
-      "_questions": {
-        "_resetType": "soft",
-        "_canShowFeedback": false,
-        "_canShowMarking": false,
-        "_canShowModelAnswer": false
-      }
-    },
-    "_trickle": {
-      "_isEnabled": false,
-      "_autoScroll": false,
-      "_scrollDuration": 500,
-      "_onChildren": false,
-      "_scrollTo": "@block +1",
-      "_button": {
-        "_isEnabled": false,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": false,
-        "_className": "",
-        "_hasIcon": false,
-        "text": "Continue",
-        "startText": "Begin",
-        "finalText": "Finish",
-        "_component": "trickle-button"
-      },
-      "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      }
-    }
-  },
-  {
-    "title": "Who should RAP?",
-    "displayTitle": "Who should RAP?",
-    "body": "",
-    "_classes": "",
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "610d4292680ed409e2f99484",
-    "_parentId": "60f8217c680ed409e2f99292",
-    "_type": "article",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_isEnabled": false,
-      "_id": "",
-      "_attempts": -1,
-      "_isPercentageBased": true,
-      "_scoreToPass": 60,
-      "_includeInTotalScore": true,
-      "_assessmentWeight": 1,
-      "_suppressMarking": false,
-      "_isResetOnRevisit": false,
-      "_allowResetIfPassed": false,
-      "_randomisation": {
-        "_isEnabled": false,
-        "_blockCount": -1
-      },
-      "_banks": {
-        "_isEnabled": false,
-        "_split": "",
-        "_randomisation": false
-      },
-      "_questions": {
-        "_resetType": "soft",
-        "_canShowFeedback": false,
-        "_canShowMarking": false,
-        "_canShowModelAnswer": false
-      }
-    },
-    "_trickle": {
-      "_isEnabled": false,
-      "_autoScroll": false,
-      "_scrollDuration": 500,
-      "_onChildren": false,
-      "_scrollTo": "@block +1",
-      "_button": {
-        "_isEnabled": false,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": false,
-        "_className": "",
-        "_hasIcon": false,
-        "text": "Continue",
-        "startText": "Begin",
-        "finalText": "Finish",
-        "_component": "trickle-button"
-      },
-      "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      }
-    }
-  },
-  {
     "title": "Proportionality",
     "displayTitle": "Proportionality",
-    "body": "",
+    "body": "<p>Implementing even one of the RAP techniques will improve the trustworthiness and quality of our analysis. However, the <a href=\"https://gss.civilservice.gov.uk/about-us/champion-networks/reproducible-analytical-pipeline-rap-champions/\">RAP champions network </a>defines the RAP Minimum Viable Product (MVP) as follows.</p><p>At a minimum, a RAP must:</p><ul><li>Minimise manual steps, for example copy-paste, point-click or drag-drop operations. Where it is absolutely necessary to include a manual step in the process this must be documented as described below.</li><li>Be built using open source software which is available to anyone, preferably R or python.</li><li>Deepen technical and quality assurance processes with&nbsp;<a href=\"https://best-practice-and-impact.github.io/qa-of-code-guidance/peer_review.html\" rel=\"nofollow\">peer review</a>&nbsp;to ensure that the process is reproducible and that the below requirements have been met.</li><li>Guarantee an audit trail using&nbsp;<a href=\"https://best-practice-and-impact.github.io/qa-of-code-guidance/version_control.html#why-do-we-need-version-control\" rel=\"nofollow\">version control software</a>, preferably Git.</li><li>Be&nbsp;<a href=\"https://best-practice-and-impact.github.io/qa-of-code-guidance/project_documentation.html#open-source-your-code-span-role-image-aria-label-difficulty-rating-2-out-of-5-span\" rel=\"nofollow\">open to anyone</a>&nbsp;– this can be facilitated most easily through the use of file and code sharing platforms.</li><li>Follow existing good practice for quality assurance – guidance set by departments or organisations, and by the Analysis Function teams and Data Quality Hub for the Analysis Function and Government Statistical Service.</li><li>Contain&nbsp;<a href=\"https://best-practice-and-impact.github.io/qa-of-code-guidance/code_documentation.html#comments-span-role-image-aria-label-difficulty-rating-1-out-of-5-span\" rel=\"nofollow\">well-commented</a>&nbsp;code and have&nbsp;<a href=\"https://best-practice-and-impact.github.io/qa-of-code-guidance/project_documentation.html\" rel=\"nofollow\">documentation embedded</a>&nbsp;and version controlled within the product, rather than saved elsewhere.</li></ul>",
     "_classes": "",
     "instruction": "",
     "_isOptional": false,
@@ -2095,9 +1812,9 @@
     }
   },
   {
-    "title": "Module References and Further Resources",
-    "displayTitle": "Module References and Further Resources",
-    "body": "",
+    "title": "Module references and further resources",
+    "displayTitle": "Module references and further resources",
+    "body": "<p>Recommended resources:</p><ul><li><a href=\"https://best-practice-and-impact.github.io/qa-of-code-guidance/intro.html\">Duck Book</a>&nbsp;-&nbsp;Analysis Function guidance on the quality assurance of code for analysis and research</li><li><a href=\"https://github.com/best-practice-and-impact/rap_mvp_maturity_guidance/blob/master/Reproducible-Analytical-Pipelines-MVP.md\">RAP Minimum Viable Product</a>&nbsp;- guidance developed by the RAP Champions network</li><li><a href=\"https://www.gov.uk/service-manual/service-standard\">GDS&nbsp;Service Standard</a>&nbsp;-&nbsp;standards for teams creating or running public services, from the Government Digital Service</li><li><a href=\"https://github.com/ukgovdatascience/govcookiecutter\">govcookiecutter</a>&nbsp;-&nbsp;template for data science projects within the public sector</li><li><a href=\"https://github.com/best-practice-and-impact/gptables/\">gptables package</a>&nbsp;- package for&nbsp;writing&nbsp;consistently formatted statistical tables to Excel</li><li><a href=\"https://gss.civilservice.gov.uk/training/reproducible-reporting-with-rmarkdown/\">Reproducible Reporting with RMarkdown</a>&nbsp;- introductory course on&nbsp;using R Markdown to produce reproducible reports</li><li><a href=\"https://r-pkgs.org/\">R Packages</a>&nbsp;- open book by&nbsp;Hadley Wickham and Jenny Bryan</li><li><a href=\"https://gss.civilservice.gov.uk/blog/the-nature-of-rap/\">The nature of Reproducible Analytical Pipelines (RAP)</a> - blog about the Nature of Crime RAP project</li><li><a href=\"https://github.com/ONS-centre-for-crime-and-justice\">ONS Centre for Crime and Justice GitHub</a> - GitHub repositories for the Nature of Crime RAP project</li><li><a href=\"https://github.com/cran/fingertipsR\">fingertipsR</a>&nbsp;- open R package to interact with Public Health England’s&nbsp;Fingertips&nbsp;data tool</li><li><a href=\"https://github.com/ONS-SST/cis_households\">cis_households</a> - open python package for processing the&nbsp;household COVID-19 Infection Survey (CIS)</li></ul>",
     "_classes": "",
     "instruction": "",
     "_isOptional": false,

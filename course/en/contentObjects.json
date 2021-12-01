@@ -1,7 +1,7 @@
 [
   {
-    "title": "The Problem",
-    "displayTitle": "The Problem",
+    "title": "1. The Problem",
+    "displayTitle": "1. The Problem",
     "body": "",
     "_classes": "",
     "subtitle": "What is the problem?",
@@ -74,8 +74,8 @@
     }
   },
   {
-    "title": "The Pillars",
-    "displayTitle": "The Pillars",
+    "title": "2. The Pillars",
+    "displayTitle": "2. The Pillars",
     "body": "",
     "_classes": "",
     "subtitle": "What is the goal?",
@@ -148,8 +148,8 @@
     }
   },
   {
-    "title": "The Principles",
-    "displayTitle": "The Principles",
+    "title": "3. The Principles",
+    "displayTitle": "3. The Principles",
     "body": "",
     "_classes": "",
     "subtitle": "What is RAP?",
@@ -222,12 +222,12 @@
     }
   },
   {
-    "title": "The Practices",
-    "displayTitle": "The Practices",
+    "title": "4. The Practices",
+    "displayTitle": "4. The Practices",
     "body": "",
     "_classes": "",
     "subtitle": "How do I RAP?",
-    "pageBody": "",
+    "pageBody": "<p>None of the challenges and aims we have been discussing are new. When it comes to implementing our principles, there is a lot we can learn and borrow from the world of software engineering.</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
@@ -296,11 +296,11 @@
     }
   },
   {
-    "title": "The Project",
-    "displayTitle": "The Project",
+    "title": "5. The Project (Optional?)",
+    "displayTitle": "5. The Project (Optional?)",
     "body": "",
     "_classes": "",
-    "subtitle": "",
+    "subtitle": "How do I manage a RAP?",
     "pageBody": "",
     "instruction": "",
     "_htmlClasses": "",
@@ -308,7 +308,7 @@
     "duration": "",
     "_lockedBy": [],
     "_lockType": "",
-    "_isOptional": false,
+    "_isOptional": true,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
@@ -370,8 +370,8 @@
     }
   },
   {
-    "title": "Further information and support",
-    "displayTitle": "Further information and support",
+    "title": "6. Further information and support",
+    "displayTitle": "6. Further information and support",
     "body": "",
     "_classes": "",
     "subtitle": "Where do I find out more about RAP?",
