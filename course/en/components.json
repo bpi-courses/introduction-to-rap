@@ -233,7 +233,7 @@
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
-    "instruction": "",
+    "instruction": "Please note, your answer may be anonymised and used to inform future content",
     "_items": [
       {
         "_answers": [],
@@ -244,19 +244,19 @@
     ],
     "_attempts": 1,
     "_canShowModelAnswer": false,
-    "_canShowFeedback": false,
+    "_canShowFeedback": true,
     "_canShowMarking": false,
     "_shouldDisplayAttempts": false,
     "_isRandom": false,
     "_recordInteraction": true,
-    "_questionWeight": 1,
-    "_allowsAnyCase": false,
-    "_allowsPunctuation": false,
+    "_questionWeight": 0,
+    "_allowsAnyCase": true,
+    "_allowsPunctuation": true,
     "_feedback": {
       "title": "",
-      "correct": "",
+      "correct": "<p>Thank you for reflecting. It is important that we frequently examine&nbsp;our work and think about how we can improve.</p>",
       "_incorrect": {
-        "final": "",
+        "final": "<p>Thank you for reflecting. It is important that we frequently examine&nbsp;our work and think about how we can improve.</p>",
         "notFinal": ""
       },
       "_partlyCorrect": {
@@ -346,8 +346,8 @@
     "instruction": "",
     "_graphic": {
       "alt": "Diagram showing \"Reproducible\" supporting \"Auditable\" and \"Assured\", and \"Auditable\" supporting \"Assured\"",
-      "large": "course/en/assets/3e6e5076f6195b884c838c8a8bfa5331b95f4c7b.png",
-      "small": "course/en/assets/3e6e5076f6195b884c838c8a8bfa5331b95f4c7b.png",
+      "large": "course/en/assets/1397a90ad0a4082c8d53cd40e0b26223ca7e18ea.svg",
+      "small": "course/en/assets/1397a90ad0a4082c8d53cd40e0b26223ca7e18ea.svg",
       "attribution": ""
     }
   },
@@ -419,7 +419,7 @@
     "_disableAccessibilityState": false,
     "title": "Example – statcheck",
     "displayTitle": "Example – statcheck",
-    "body": "<p>Many scientific disciplines have gone through reproducibility or replication crises. Some of these concerns are due to difficulties in recreating experiments, but some of the blame lies with mathematical or manual error.</p><p>In 2015, the journal <em>Behaviour Research Methods</em> documented reporting errors in a sample of over 250,000 <em>p</em>-values. These <em>p</em>-values were taken from major psychology journals between 1985 and 2013. The study was carried out using the R package <a href=\"http://statcheck.io/about.php\">statcheck</a>. This package allowed researchers to crawl through papers and find basic errors like rounding errors and misreported <em>p</em>-values.</p><p>The study concluded that “half of all published psychology papers … contained at least one <em>p</em>-value that was inconsistent with its test”. Most striking was that the errors weren’t entirely random: “most of the errors tipped the results in favour of statistical significance”. On top of this, “around 13 percent of the papers contained an error that could potentially change the paper’s conclusions”. &nbsp;</p><p>The result of this is that trust in the scientific evidence was reduced. It became very hard to draw conclusions from a paper because there was a good chance it contained a mistake.</p><p>See the <a href=\"https://link.springer.com/article/10.3758/s13428-015-0664-2\">published article</a> for more information.</p>",
+    "body": "<p>Many scientific disciplines have gone through reproducibility or replication crises. Some of these concerns are due to difficulties in recreating experiments, but some of the blame lies with mathematical or manual error.</p><p>In 2015, the journal Behaviour Research Methods documented reporting errors in a sample of over 250,000 <em>p</em>-values. These <em>p</em>-values were taken from major psychology journals between 1985 and 2013. The study was carried out using the R package <a href=\"http://statcheck.io/about.php\">statcheck</a>. This package allowed researchers to crawl through papers and find basic errors like rounding errors and misreported <em>p</em>-values.</p><p>The study concluded that “half of all published psychology papers … contained at least one <em>p</em>-value that was inconsistent with its test”. Most striking was that the errors weren’t entirely random: “most of the errors tipped the results in favour of statistical significance”. On top of this, “around 13 percent of the papers contained an error that could potentially change the paper’s conclusions”. &nbsp;</p><p>The result of this is that trust in the scientific evidence was reduced. It became very hard to draw conclusions from a paper because there was a good chance it contained a mistake.</p><p>See the <a href=\"https://link.springer.com/article/10.3758/s13428-015-0664-2\">published article</a> for more information.</p>",
     "_id": "60f81410680ed409e2f9926d",
     "_parentId": "60f81405680ed409e2f9926c",
     "_type": "component",
@@ -587,7 +587,7 @@
     "_disableAccessibilityState": false,
     "title": "Example – West Coast Main Line franchise",
     "displayTitle": "Example – West Coast Main Line franchise",
-    "body": "<p>In 2012, the contract to operate the London to Glasgow rail line expired. Train operators competed for the new franchise, which was initially awarded to FirstGroup. However, the competition fell through after the previous operator launched a legal challenge.</p><p>Several bodies investigated and found that the process \"was littered with basic errors\". There were \"fundamental errors\" in how the model underpinning the decision was created and managed. Senior leaders \"could not see all the information which might have enabled [them] to challenge the processes\". Technical errors were not discovered or communicated effectively. In the end, the Department for Transport abandoned the franchise competition and paid £40 million in compensation. Sir Nicholas MacPherson was commissioned to write a <a href=\"https://www.gov.uk/government/publications/review-of-quality-assurance-of-government-models\">report on the quality assurance of Government analytical models</a>. Following this report, guidance for government analysts was published in the <a href=\"https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/416478/aqua_book_final_web.pdf\">Aqua Book</a>.</p>",
+    "body": "<p>In 2012, the contract to operate the London to Glasgow rail line expired. Train operators competed for the new franchise, which was initially awarded to FirstGroup. However, the competition fell through after the previous operator launched a legal challenge.</p><p>Several bodies investigated. As <a href=\"https://www.bbc.co.uk/news/uk-politics-21577826\">reported by the BBC</a>, the Public Accounts Committee found that the process \"was littered with basic errors\". They accused the department of making \"fundamental errors\" in how the model underpinning the decision was created and managed. Senior leaders told the committee that they \"could not see all the information which might have enabled [them] to challenge the processes\". Technical errors were not discovered or communicated effectively. In the end, the Department for Transport abandoned the franchise competition and paid £40 million in compensation. Sir Nicholas MacPherson was commissioned to write a <a href=\"https://www.gov.uk/government/publications/review-of-quality-assurance-of-government-models\">report on the quality assurance of Government analytical models</a>. Following this report, guidance for government analysts was published in the <a href=\"https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/416478/aqua_book_final_web.pdf\">Aqua Book</a>.</p>",
     "_id": "60f8171e680ed409e2f99281",
     "_parentId": "60f8171e680ed409e2f99280",
     "_type": "component",
@@ -613,8 +613,8 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Question",
-    "displayTitle": "Question",
+    "title": "Definitions question",
+    "displayTitle": "Definitions question",
     "body": "<p>Match each pillar of RAP with its definition:</p>",
     "_id": "60f81785680ed409e2f99284",
     "_parentId": "60f81772680ed409e2f99283",
@@ -626,7 +626,7 @@
       "_percentInviewVertical": 50
     },
     "_pageLevelProgress": {
-      "_isEnabled": false,
+      "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
@@ -789,7 +789,7 @@
     "_items": [
       {
         "title": "Minimise manual steps",
-        "body": "<p>We should minimise the number of manual steps in our pipelines. Manual processes include copy-paste, drag-drop and point-click actions. They are especially common when using spreadsheets or the graphical interfaces of software like SPSS. When we do a manual process the computer software converts it into code. We can cut out this intermediate step by creating our analysis using a programming language. Producing our analysis with code directly connects our inputs and outputs. It reduces the chance of human error and makes analysis easier to reproduce. It also decreases the risk of knowledge being lost when people move on. Implementing automated processes to make our analysis reproducible is one of the top goals of the <a href=\"https://gss.civilservice.gov.uk/policy-store/government-statistical-service-gss-quality-strategy/\">Government Statistical Service (GSS) Quality Strategy</a>.</p>",
+        "body": "<p>We should minimise the number of manual steps in our pipelines. Manual processes include copy-paste, drag-drop and point-click actions. They are especially common when using spreadsheets or the graphical interfaces of software like SPSS. When we do a manual process the computer software converts it into code. We can cut out this intermediate step by creating our analysis using a programming language. Producing our analysis with code directly connects our inputs and outputs. It reduces the chance of human error and makes analysis easier to reproduce. Clear code provides a record of how the analysis was performed, so decreases the risk of knowledge being lost when people move on. Implementing automated processes to make our analysis reproducible is one of the top goals of the <a href=\"https://gss.civilservice.gov.uk/policy-store/government-statistical-service-gss-quality-strategy/\">Government Statistical Service (GSS) Quality Strategy</a>.</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -799,7 +799,7 @@
       },
       {
         "title": "Maximise transparency",
-        "body": "<p>Throughout the whole development and use of our pipelines, we should maximise transparency. This makes it easier for stakeholders and independent experts to scrutinise our work and ensure maximum value and impact. This is emphasised in the <a href=\"http://www.gov.uk/service-manual/service-standard\">Service Standard</a>,&nbsp;written by the Government Digital Service (GDS) to help&nbsp;teams to create and run great public services. Point 12 of the GDS Service Standard states that all new code should made open by default. In the small number of cases where this is not possible, justification should be given.</p>",
+        "body": "<p>Throughout the whole development and use of our pipelines, we should maximise transparency. This makes it easier for stakeholders and independent experts to scrutinise our work and ensure maximum value and impact. This is emphasised in the <a href=\"http://www.gov.uk/service-manual/service-standard\">Service Standard</a>,&nbsp;written by the Government Digital Service (GDS) to help&nbsp;teams to create and run great public services. Point 12 of the GDS Service Standard states that all new code should made open by default. This means that users and the public are able to view and reuse the code for our analysis. The situations when we should not make our code transparent are when our analysis relates to unreleased policy, fraud detection, disclosure control or national security. If we cannot make our data open, we should provide non-disclosive dummy data alongside our analysis.</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -808,8 +808,8 @@
         "_classes": ""
       },
       {
-        "title": "Open-source software",
-        "body": "<p>It is difficult to make our analysis transparent if our stakeholders cannot access the software needed to read and run the analysis. We should therefore use open-source software for our analysis. Open-source software also has the benefit of large user bases both inside and outside of government. These users communities are happy to share knowledge and support other users.</p>",
+        "title": "Open source software",
+        "body": "<p>It is difficult to make our analysis transparent if our stakeholders cannot access the software needed to read and run the analysis.&nbsp;We should therefore use open source software for our analysis. This is emphasised in point 3 of the <a href=\"https://www.gov.uk/guidance/the-technology-code-of-practice\">Technology Code of Practice</a>: \"be open and use open source\". Unlike with closed source software, we can examine exactly how open source software works. Open source software also has the benefit of large user bases both inside and outside of government. These users communities are happy to share knowledge and support other users.</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -890,7 +890,7 @@
     "_disableAccessibilityState": false,
     "title": "Module references and further resources",
     "displayTitle": "Module references and further resources",
-    "body": "<p>Recommended resources:</p><ul><li><a href=\"https://gss.civilservice.gov.uk/policy-store/government-statistical-service-gss-quality-strategy/\">GSS Quality Strategy</a> - strategy for members of the Government Statistical Service</li><li><a href=\"https://www.gov.uk/service-manual/service-standard\">GDS Service Standard</a>&nbsp;- standards for teams creating or running public services, from the Government Digital Service</li></ul><p>Additional references:</p><ul><li><a href=\"https://dataingovernment.blog.gov.uk/2017/03/27/reproducible-analytical-pipeline/\">Reproducible analytical pipelines</a> - a blog from Matt Upton about the DCMS and GDP RAP collaboration project</li><li><a href=\"https://github.com/DCMSstats/eesectors\">eesectors GitHub repository</a> - the code for the DCMS and GDP RAP collaboration project</li></ul>",
+    "body": "<p>Recommended resources:</p><ul><li><a href=\"https://gss.civilservice.gov.uk/policy-store/government-statistical-service-gss-quality-strategy/\">GSS Quality Strategy</a> - strategy for members of the Government Statistical Service</li><li><a href=\"https://www.gov.uk/service-manual/service-standard\">GDS Service Standard</a>&nbsp;- standards for teams creating or running public services, from the Government Digital Service</li><li><a href=\"https://www.gov.uk/guidance/the-technology-code-of-practice\">Technology Code of Practice</a>&nbsp;-&nbsp;criteria to help government design, build and buy technology, from the Government Digital Service.</li><li><a href=\"https://www.gov.uk/government/publications/open-source-guidance\">Open source guidance</a>&nbsp;- guidance on when and how to open source code,&nbsp;from the Government Digital Service</li></ul><p>Additional references:</p><ul><li><a href=\"https://dataingovernment.blog.gov.uk/2017/03/27/reproducible-analytical-pipeline/\">Reproducible analytical pipelines</a> - a blog from Matt Upson about the DCMS and GDP RAP collaboration project</li><li><a href=\"https://github.com/DCMSstats/eesectors\">eesectors GitHub repository</a> - the code for the DCMS and GDP RAP collaboration project</li></ul>",
     "_id": "60f8204e680ed409e2f9928f",
     "_parentId": "60f82042680ed409e2f9928e",
     "_type": "component",
@@ -918,7 +918,7 @@
     "_disableAccessibilityState": false,
     "title": "New Component Title",
     "displayTitle": "",
-    "body": "<p>When creating a Reproducible Analytical Pipeline, we should use an open-source programming language. The best programming language will vary from project to project, but R and Python are great choices for most types of data analysis. R has its strengths in statistics and data visualisation and is used widely for research in government and academia. Python is a more general programming language that is also commonly used for data engineering and web development. There is extensive training and community support for both languages inside and outside of government. The choice will usually depend on existing team knowledge and departmental preference.</p>",
+    "body": "<p>When creating a Reproducible Analytical Pipeline, we should use an open source programming language. The best programming language will vary from project to project, but R and Python are great choices for most types of data analysis. R has its strengths in statistics and data visualisation and is used widely for research in government and academia. Python is a more general programming language that is also commonly used for data engineering and web development. There is extensive training and community support for both languages inside and outside of government. The choice will usually depend on existing team knowledge and departmental preference.</p>",
     "_id": "60f823c6680ed409e2f99298",
     "_parentId": "60f8233c680ed409e2f99297",
     "_type": "component",
@@ -1100,7 +1100,7 @@
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
-    "instruction": "",
+    "instruction": "Please note, your answer may be anonymised and used to inform future content",
     "_items": [
       {
         "_answers": [],
@@ -1111,7 +1111,7 @@
     ],
     "_attempts": 1,
     "_canShowModelAnswer": false,
-    "_canShowFeedback": false,
+    "_canShowFeedback": true,
     "_canShowMarking": false,
     "_shouldDisplayAttempts": false,
     "_isRandom": false,
@@ -1121,9 +1121,9 @@
     "_allowsPunctuation": false,
     "_feedback": {
       "title": "",
-      "correct": "",
+      "correct": "<p>Thank you for reflecting. It is important that we frequently examine&nbsp;our work and think about how we can improve.</p>",
       "_incorrect": {
-        "final": "",
+        "final": "<p>Thank you for reflecting. It is important that we frequently examine&nbsp;our work and think about how we can improve.</p>",
         "notFinal": ""
       },
       "_partlyCorrect": {
@@ -1168,7 +1168,7 @@
     "_disableAccessibilityState": false,
     "title": "Self reflection exercise",
     "displayTitle": "Self reflection exercise",
-    "body": "<p>Think about a piece of analysis you have worked on. Was the process collaborative or did&nbsp;it just rely on one person? Was the pipeline well documented or would essential knowledge be lost if an analyst left?</p>",
+    "body": "<p>Think about a piece of analysis you have worked on.</p><p>Was the process collaborative or did&nbsp;it just rely on one person? Was the pipeline well documented or would essential knowledge be lost if an analyst left?</p>",
     "_id": "610d4e9d680ed409e2f9949e",
     "_parentId": "610d4e98680ed409e2f9949c",
     "_type": "component",
@@ -1182,7 +1182,7 @@
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
-    "instruction": "",
+    "instruction": "Please note, your answer may be anonymised and used to inform future content",
     "_items": [
       {
         "_answers": [],
@@ -1193,19 +1193,19 @@
     ],
     "_attempts": 1,
     "_canShowModelAnswer": false,
-    "_canShowFeedback": false,
+    "_canShowFeedback": true,
     "_canShowMarking": false,
     "_shouldDisplayAttempts": false,
     "_isRandom": false,
     "_recordInteraction": true,
-    "_questionWeight": 1,
-    "_allowsAnyCase": false,
-    "_allowsPunctuation": false,
+    "_questionWeight": 0,
+    "_allowsAnyCase": true,
+    "_allowsPunctuation": true,
     "_feedback": {
       "title": "",
-      "correct": "",
+      "correct": "<p>Thank you for reflecting. It is important that we frequently examine&nbsp;our work and think about how we can improve.</p>",
       "_incorrect": {
-        "final": "",
+        "final": "<p>Thank you for reflecting. It is important that we frequently examine&nbsp;our work and think about how we can improve.</p>",
         "notFinal": ""
       },
       "_partlyCorrect": {
@@ -1902,7 +1902,7 @@
     "_items": [
       {
         "title": "User Needs",
-        "body": "<p>When creating a RAP, we should identify our users early and focus on their needs. Agile requirements are often communicated in the form of User Stories. That is, an informal explanation of what a user needs to do and why, rather than a detailed specification of how to code a feature. These are commonly structured as follows:</p><p>“As a... I want to...&nbsp;so that...”</p><p>For example,&nbsp; “As a DfT policy official, I want to understand the locations of traffic jams, so that I can allocate infrastructure funding.”.</p><p>We consider a story completed when the user need is met.</p><p>Unlike in Waterfall, in Agile we welcome changing requirements. This is because users refining their requirements will result in a better final product. It also puts less pressure on users to create highly specific descriptions before they have seen any tangible examples.</p>",
+        "body": "<p>When creating a RAP, we should identify our users early and focus on their needs. Agile requirements are often communicated in the form of User Stories. That is, an informal explanation of what a user needs to do and why, rather than a detailed specification of how to code a feature. These are commonly structured as follows:</p><p>“As a... I want to...&nbsp;so that...”</p><p>For example,&nbsp; “As a DfT policy official, I want to understand the locations of traffic jams, so that I can allocate infrastructure funding.”.</p><p>We consider a story completed when the user need is met.</p><p>It is inevitable that users will refine and redefine their requirements over time. Unlike Waterfall, Agile development can respond easily to changing user requirements. The Agile approach does not require a total top-down reorientation of the product every time requirements change, meaning that it is easy to reorient the project to better meet user needs, creating a better product at the end of development.</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -2583,7 +2583,7 @@
     "_disableAccessibilityState": false,
     "title": "Starting to RAP",
     "displayTitle": "Starting to RAP",
-    "body": "<p>When introducing RAP into our projects, the best approach is:</p><ul><li>Start small and grow, for example use one element of RAP or RAP one part of the pipeline. This will help show value early on.</li><li>Learn by doing, aided by just-in-time teaching. This means that people pick up the necessary skills just as they need them and put them into practice straight away.</li><li>Have the team learn together. This can be done by paired working and mentoring relationships.</li><li>Use best practice from the beginning. This maximises the benefit of applying RAP techniques, which become harder to implement down the line.</li></ul><p>When choosing our first RAP project, consider that:</p><ul><li>RAP can be used for producing tables, plots, models and more!</li><li>RAP is beneficial to official statistics and internal analyses alike.</li><li>RAP provides significant quality improvements for both repeated and ad hoc analyses.</li><li>RAP is designed for quantitative analysis. Whilst the pillars are also important for qualitative analysis, the practices are likely to differ.</li><li>RAP is easiest to implement when data sources, processes and outputs are stable. However, a well constructed RAP makes unstable environments easier to deal with. For example, when code is modular, fewer alterations are needed when inputs or outputs change.</li><li>RAP can provide the biggest benefits when projects are risky or time consuming.</li><li>RAP capability building takes time, and our first RAP project may take&nbsp;more time than expected. However, in the longer term RAP can provide great productivity improvements and&nbsp;subsequent RAPs should be quicker and easier than traditional methods of analysis. This is true whether rerunning similar analysis on new data, or creating new analysis. For example, good version control improves collaboration and open sourcing allows code to be shared and reused.</li></ul><p>A successful transition to RAP will be aided by:</p><ul><li>Commitment from managers and team members</li><li>Starting off with a base level of technical understanding – the minimum is basic skills in our programming language of choice.</li><li>Having the right tools in place.</li><li>Allocating time for the team to contribute, outside of their other responsibilities.</li><li>Having a plan for the new pipeline to transition to business as usual.</li></ul>",
+    "body": "<p>As with many things, often the hardest part of RAP is getting started. We can make this transition to RAP easier with our approach. When introducing RAP into our projects, the best approach is:</p><ul><li>Start small and grow, for example use one element of RAP or RAP one part of the pipeline. This will help show value early on.</li><li>Learn by doing, aided by just-in-time teaching. This means that people pick up the necessary skills just as they need them and put them into practice straight away.</li><li>Have the team learn together. This can be done by paired working and mentoring relationships.</li><li>Use best practice from the beginning. This maximises the benefit of applying RAP techniques, which become harder to implement down the line.</li></ul><p>&nbsp;</p><p>RAP can be used for a wide variety of projects. Choosing the right first project can help consolidate our learning and maximise the return on our efforts.&nbsp;When choosing our first RAP project, consider that:</p><ul><li>RAP can be used for producing tables, plots, models and more!</li><li>RAP is beneficial to official statistics and internal analyses alike.</li><li>RAP provides significant quality improvements for both repeated and ad hoc analyses.</li><li>RAP is designed for quantitative analysis. Whilst the pillars are also important for qualitative analysis, the practices are likely to differ.</li><li>RAP is easiest to implement when data sources, processes and outputs are stable. However, a well constructed RAP makes unstable environments easier to deal with. For example, when code is modular, fewer alterations are needed when inputs or outputs change.</li><li>RAP can provide the biggest benefits when projects are risky or time consuming.</li><li>RAP capability building takes time, and our first RAP project may take&nbsp;more time than expected. However, in the longer term RAP can provide great productivity improvements and&nbsp;subsequent RAPs should be quicker and easier than traditional methods of analysis. This is true whether rerunning similar analysis on new data, or creating new analysis. For example, good version control improves collaboration and open sourcing allows code to be shared and reused.</li></ul><p>&nbsp;</p><p>When we start our first RAP project, we can learn a lot from previous successes and blockers to&nbsp;RAP. As well as choosing the right approach and project, a successful transition to RAP will be aided by:&nbsp;</p><ul><li>Commitment from managers and team members</li><li>Starting off with a base level of technical understanding – the minimum is basic skills in our programming language of choice.</li><li>Having the right tools in place.</li><li>Allocating time for the team to contribute, outside of their other responsibilities.</li><li>Having a plan for the new pipeline to transition to business as usual.</li></ul>",
     "_id": "6193a8ec680ed409e2f99ca9",
     "_parentId": "6165ad78680ed409e2f99b11",
     "_type": "component",
@@ -2611,7 +2611,7 @@
     "_disableAccessibilityState": false,
     "title": "Blockers to a successful RAP",
     "displayTitle": "Blockers to a successful RAP",
-    "body": "<p>Every RAP project is unique, but they can often face similar barriers to success. One common blocker to RAP is access to technology. The RAP Champions network set out that a RAP must be built using version control and open-source software, preferably Git and R or python. However, there are some government analysts that don’t have access to Git, R, and python. In this situation, we may need to request access from our IT and security departments. We can get help writing a business case by contacting <a href=\"https://govdatascience.slack.com/archives/C6H22U3H9\">analysts who have done this before</a> or the <a href=\"mailto:gsshelp@Statistics.gov.uk\">Analysis Function RAP team</a>. Even before you have access to the recommended technology, you can still get the benefits of other RAP components, for example peer review and good documentation.</p><p>Another possible blocker to delivering a successful RAP is traditional project management.</p>",
+    "body": "<p>Every RAP project is unique, but they can often face similar barriers to success. One common blocker to RAP is access to technology. The RAP Champions network set out that a RAP must be built using version control and open source software, preferably Git and R or python. However, there are some government analysts that don’t have access to Git, R, and python. In this situation, we may need to request access from our IT and security departments. We can get help writing a business case by contacting <a href=\"https://govdatascience.slack.com/archives/C6H22U3H9\">analysts who have done this before</a> or the <a href=\"mailto:gsshelp@Statistics.gov.uk\">Analysis Function RAP team</a>. Even before you have access to the recommended technology, you can still get the benefits of other RAP components, for example peer review and good documentation.</p><p>Another possible blocker to delivering a successful RAP is traditional project management.</p>",
     "_id": "6193aff0680ed409e2f99cae",
     "_parentId": "61952fed680ed409e2f99caf",
     "_type": "component",
@@ -2815,7 +2815,7 @@
     "_disableAccessibilityState": false,
     "title": "Module references and further resources",
     "displayTitle": "Module references and further resources",
-    "body": "<p>Recommended resources:</p><ul><li><a href=\"https://osr.statisticsauthority.gov.uk/now-about-that-excel-spreadsheet/\">Now about that Excel spreadsheet...</a>&nbsp;- a blog from the Office for Statistics Regulation on using Excel spreadsheets</li><li><a href=\"http://www.eusprig.org/\">European Spreadsheet Risks Interest Group</a>&nbsp;- website and conference sharing horror stories and research on spreadsheet risk</li></ul><p>Additional references:</p><ul><li><a href=\"https://arxiv.org/ftp/arxiv/papers/1602/1602.02601.pdf\">What We Don’t Know About Spreadsheet Errors Today</a>&nbsp;-&nbsp;Raymond R. Panko paper from 2015 conference on Spreadsheet Risk Management</li></ul>",
+    "body": "<p>Recommended resources:</p><ul><li><a href=\"https://osr.statisticsauthority.gov.uk/now-about-that-excel-spreadsheet/\">Now about that Excel spreadsheet...</a>&nbsp;- a blog from the Office for Statistics Regulation on using Excel spreadsheets</li><li><a href=\"http://www.eusprig.org/\">European Spreadsheet Risks Interest Group</a>&nbsp;- website and conference sharing horror stories and research on spreadsheet risk</li></ul><p>Additional references:</p><ul><li><a href=\"https://arxiv.org/ftp/arxiv/papers/1602/1602.02601.pdf\">What We Don’t Know About Spreadsheet Errors Today</a>&nbsp;-&nbsp;Raymond R. Panko paper from 2015 conference on Spreadsheet Risk Management</li><li><a href=\"https://theconversation.com/the-reinhart-rogoff-error-or-how-not-to-excel-at-economics-13646\">The&nbsp;Reinhart-Rogoff&nbsp;error – or how not to Excel at&nbsp;economics</a>&nbsp;- The Conversation article about the Reinhart-Rogoff paper errors</li><li><a href=\"https://www.bbc.co.uk/news/magazine-22223190\">Reinhart, Rogoff... and Herndon: The student who caught out the profs</a>&nbsp;-&nbsp;BBC article about the Reinhart-Rogoff paper errors</li></ul>",
     "_id": "61a0e914680ed409e2f99cbb",
     "_parentId": "617a87bb680ed409e2f99c99",
     "_type": "component",
@@ -3004,5 +3004,639 @@
       }
     ],
     "_shouldCollapseItems": false
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Example – Reinhart-Rogoff economics paper",
+    "displayTitle": "Example – Reinhart-Rogoff economics paper",
+    "body": "<p>In 2010, Harvard economists Carmen Reinhart and Kenneth Rogoff published a paper entitled Growth in a Time of Debt. The paper showed that average real economic growth decreased by 0.1% when a country’s debt increased to more than 90% of GDP. Political figures around the world quoted this conclusion as evidence for austerity policies.</p><p>However, in 2013, graduate student Thomas Herndon was given the task of reproducing the results of an economics paper. He found himself unable to recreate Reinhart and Rogoff's findings. Despite all their efforts, neither could his professors, Michael Ash and Robert Pollin. They requested access to the spreadsheet used for the published paper, and discovered it contained three errors. The largest error was that the whole row of data was not selected when averaging growth figures. They had accidentally excluded Australia, Austria, Belgium, Canada, and Denmark - 5 of the 20 countries they were analysing. &nbsp;When these countries were included in the calculation, the 0.1% decrease figure changed to a 2.2% increase. This mistake and others in the analysis created uncertainty about the original conclusions. It also caused significant reputational damage for the original academics.</p><p>You can read more on <a href=\"https://theconversation.com/the-reinhart-rogoff-error-or-how-not-to-excel-at-economics-13646\">The Conversation</a> or <a href=\"https://www.bbc.co.uk/news/magazine-22223190\">BBC</a>.</p>",
+    "_id": "61a776aa680ed409e2f99cc4",
+    "_parentId": "61a776a0680ed409e2f99cc3",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "textinput",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Self reflection exercise",
+    "displayTitle": "Self reflection exercise",
+    "body": "<p>Think about a piece of analysis you have worked on.</p><p>Was is reproducible, auditable and assured? Think of one thing you could do to make it more reproducible, auditable or assured.</p>",
+    "_id": "61af5472680ed409e2f99d68",
+    "_parentId": "61af5447680ed409e2f99d67",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Please note, your answer may be anonymised and used to inform future content",
+    "_items": [
+      {
+        "_answers": [],
+        "prefix": "",
+        "suffix": "",
+        "placeholder": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": false,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 0,
+    "_allowsAnyCase": true,
+    "_allowsPunctuation": true,
+    "_feedback": {
+      "title": "",
+      "correct": "<p>Thank you for reflecting. It is important that we frequently examine&nbsp;our work and think about how we can improve.</p>",
+      "_incorrect": {
+        "final": "<p>Thank you for reflecting. It is important that we frequently examine&nbsp;our work and think about how we can improve.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Open sourcing question",
+    "displayTitle": "Open sourcing question",
+    "body": "<p>Which of the following projects would benefit from being open sourced?</p>",
+    "_id": "61af5bb1680ed409e2f99d6a",
+    "_parentId": "61af5b9b680ed409e2f99d69",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Please select all correct answers",
+    "_items": [
+      {
+        "text": "Analysis of traffic jam locations to inform infrastructure spending",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Data processing pipeline for the COVID Infection survey",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Algorithm for detecting tax fraud",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 3,
+    "_feedback": {
+      "title": "",
+      "correct": "<p>Correct!</p><p>Once the&nbsp;infrastructure policy is released, public trust could be increased by sharing the&nbsp;traffic jam location analysis.</p><p>Open sourcing the&nbsp;COVID Infection Survey data processing pipeline helps researchers understand&nbsp;how the data is being processed - you can find the <a href=\"https://github.com/ONS-SST/cis_households\">latest pipeline</a> here!</p><p>The tax fraud detection algorithm should not be shared, because that would help fraudsters avoid detection.</p>",
+      "_incorrect": {
+        "final": "<p>Not quite.</p><p>Once the infrastructure policy is released, public trust could be increased by sharing the&nbsp;traffic jam location analysis.</p><p>Open sourcing the&nbsp;COVID Infection Survey data processing pipeline helps researchers understand&nbsp;how the data is being processed - you can find the <a href=\"https://github.com/ONS-SST/cis_households\">latest pipeline</a> here!</p><p>The tax fraud detection algorithm should not be shared, because that would help fraudsters avoid detection.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "<p>Almost.</p><p>Once the infrastructure&nbsp;policy is released, public trust could be increased by sharing the&nbsp;traffic jam location analysis.</p><p>Open sourcing the&nbsp;COVID Infection Survey data processing pipeline helps researchers understand&nbsp;how the data is being processed - you can find the <a href=\"https://github.com/ONS-SST/cis_households\">latest pipeline</a> here!</p><p>The tax fraud detection algorithm should not be shared, because that would help fraudsters avoid detection.</p>",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Documentation question",
+    "displayTitle": "Documentation question",
+    "body": "<p>Which of the following statements about documentation are true?</p>",
+    "_id": "61af6d03680ed409e2f99d6d",
+    "_parentId": "61af6cea680ed409e2f99d6c",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Please select all correct answers",
+    "_items": [
+      {
+        "text": "Documentation should contain all the necessary information for running the pipeline",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Documentation should be saved in a Word document on the lead analyst's laptop",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Documentation doesn't matter until the analysis has been finished",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 3,
+    "_feedback": {
+      "title": "",
+      "correct": "<p>Correct!</p><p>The successful running of a pipeline should&nbsp;not depend on the unwritten knowledge of individual analysts.</p><p>Processes should be open and effectively documented. That documentation should be embedded in our code, not saved separately on one person's computer.</p><p>At any time, our analysis should be auditable. Good documentation allows for easier auditing. It also improves collaboration.</p>",
+      "_incorrect": {
+        "final": "<p>Not quite.</p><p>The successful running of a pipeline should&nbsp;not depend on the unwritten knowledge of individual analysts.</p><p>Processes should be open and effectively documented. That documentation should be embedded in our code, not saved separately on one person's computer.</p><p>At any time, our analysis should be auditable. Good documentation allows for easier auditing. It also improves collaboration.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "<p>Almost.</p><p>The successful running of a pipeline should&nbsp;not depend on the unwritten knowledge of individual analysts.</p><p>Processes should be open and effectively documented. That documentation should be embedded in our code, not saved separately on one person's computer.</p><p>At any time, our analysis should be auditable. Good documentation allows for easier auditing. It also improves collaboration.</p>",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "textinput",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Self reflection exercise",
+    "displayTitle": "",
+    "body": "<p>What do you think are the main risks associated with that analysis?</p>",
+    "_id": "61af747f680ed409e2f99d6f",
+    "_parentId": "61af73b4680ed409e2f99d6e",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Please note, your answer may be anonymised and used to inform future content",
+    "_items": [
+      {
+        "_answers": [],
+        "prefix": "",
+        "suffix": "",
+        "placeholder": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": false,
+    "_canShowFeedback": true,
+    "_canShowMarking": false,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 0,
+    "_allowsAnyCase": true,
+    "_allowsPunctuation": true,
+    "_feedback": {
+      "title": "",
+      "correct": "<p>Thank you for reflecting. It is important that we frequently examine&nbsp;our work and think about how we can improve.</p>",
+      "_incorrect": {
+        "final": "<p>Thank you for reflecting. It is important that we frequently examine&nbsp;our work and think about how we can improve.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "<p>Thank you for reflecting. It is important that we frequently examine&nbsp;our work and think about how we can improve.</p>",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "textinput",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Self reflection exercise",
+    "displayTitle": "",
+    "body": "<p>How could you use RAP to mitigate against the risks you identified?</p>",
+    "_id": "61af7578680ed409e2f99d71",
+    "_parentId": "61af7560680ed409e2f99d70",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Please note, your answer may be anonymised and used to inform future content",
+    "_items": [
+      {
+        "_answers": [],
+        "prefix": "",
+        "suffix": "",
+        "placeholder": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": false,
+    "_canShowFeedback": true,
+    "_canShowMarking": false,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 0,
+    "_allowsAnyCase": false,
+    "_allowsPunctuation": false,
+    "_feedback": {
+      "title": "",
+      "correct": "<p>Thank you for reflecting. It is important that we frequently examine&nbsp;our work and think about how we can improve.</p>",
+      "_incorrect": {
+        "final": "<p>Thank you for reflecting. It is important that we frequently examine&nbsp;our work and think about how we can improve.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "<p>Thank you for reflecting. It is important that we frequently examine&nbsp;our work and think about how we can improve.</p>",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Choosing a project question",
+    "displayTitle": "Choosing a project question",
+    "body": "<p>Which of the following analysis projects would not be suitable for RAP?</p>",
+    "_id": "61af7be8680ed409e2f99d73",
+    "_parentId": "61af7bdd680ed409e2f99d72",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Please select all correct answers",
+    "_items": [
+      {
+        "text": "Analysing feedback from a focus group of five people",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Creating a model to answer an ad hoc question from a policy official",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Producing data tables for an official statistic",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 3,
+    "_feedback": {
+      "title": "",
+      "correct": "<p>Correct!</p><p>RAP was&nbsp;not designed for qualitative analysis, such as small focus groups.</p><p>Models for questions from policy officials are great RAP candidates. RAP improves transparency and demonstrates quality, reassuring the policy official and the public.</p><p>Lots of RAP projects have produced data tables. The Office for Statistics Regulation encourages the use of RAP to produce official statistics.</p>",
+      "_incorrect": {
+        "final": "<p>Not quite.</p><p>RAP was&nbsp;not designed for qualitative analysis, such as small focus groups.</p><p>Models for questions from policy officials are great RAP candidates. RAP improves transparency and demonstrates quality, reassuring&nbsp;the policy official and the public.</p><p>Lots of RAP projects have produced data tables. The Office for Statistics Regulation encourages the use of RAP to produce official statistics.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "<p>Almost.</p><p>RAP was&nbsp;not designed for qualitative analysis, such as small focus groups.</p><p>Models for questions from policy officials are great RAP candidates. RAP improves transparency and demonstrates quality, reassuring&nbsp;the policy official and the public.</p><p>Lots of RAP projects have produced data tables. The Office for Statistics Regulation encourages the use of RAP to produce official statistics.</p>",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": true,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Overcoming blockers question",
+    "displayTitle": "Overcoming blockers question",
+    "body": "<p>Who can you contact for support if you encounter a blocker to RAP?</p>",
+    "_id": "61af7f58680ed409e2f99d75",
+    "_parentId": "61af7f44680ed409e2f99d74",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Please select all correct answers",
+    "_items": [
+      {
+        "text": "Other RAPpers",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "RAP champions",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Analysis Function RAP team",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": false,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 3,
+    "_feedback": {
+      "title": "",
+      "correct": "<p>You can get in touch with other analysts doing RAP on the rap_collaboration slack channel on the <a href=\"https://govdatascience.slack.com\">gov data science slack</a>.</p><p>You can contact your <a href=\"https://gss.civilservice.gov.uk/about-us/champion-networks/reproducible-analytical-pipeline-rap-champions/\">departmental RAP champions</a>.</p><p>You could also <a href=\"mailto:gsshelp@statistics.gov.uk\">email the Analysis Function RAP team</a>.</p>",
+      "_incorrect": {
+        "final": "<p>You can get in touch with other analysts doing RAP on the rap_collaboration slack channel on the <a href=\"https://govdatascience.slack.com\">gov data science slack</a>.</p><p>You can contact your <a href=\"https://gss.civilservice.gov.uk/about-us/champion-networks/reproducible-analytical-pipeline-rap-champions/\">departmental RAP champions</a>.</p><p>You could also <a href=\"mailto:gsshelp@statistics.gov.uk\">email the Analysis Function RAP team</a>.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "<p>You can get in touch with other analysts doing RAP on the rap_collaboration slack channel on the <a href=\"https://govdatascience.slack.com\">gov data science slack</a>.</p><p>You can contact your <a href=\"https://gss.civilservice.gov.uk/about-us/champion-networks/reproducible-analytical-pipeline-rap-champions/\">departmental RAP champions</a>.</p><p>You could also <a href=\"mailto:gsshelp@statistics.gov.uk\">email the Analysis Function RAP team</a>.</p>",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
   }
 ]

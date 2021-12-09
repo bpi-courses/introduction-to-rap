@@ -194,9 +194,9 @@
     }
   },
   {
-    "title": "Open source language for analysis and dissemination",
-    "displayTitle": "Open source language for analysis and dissemination",
-    "body": "",
+    "title": "New Article Title",
+    "displayTitle": "",
+    "body": "<p>None of the challenges and aims we have been discussing are new. When it comes to implementing our principles, there is a lot we can learn and borrow from the world of software engineering.</p>",
     "_classes": "",
     "instruction": "",
     "_isOptional": false,
@@ -266,7 +266,7 @@
       }
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "_vanilla": {
@@ -905,7 +905,7 @@
       }
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "_vanilla": {
@@ -924,7 +924,7 @@
   {
     "title": "Modular code",
     "displayTitle": "Modular code",
-    "body": "<p>When creating Reproducible Analytical Pipelines, it is important that we not only code, but code well. One important part of writing code well is making it modular. This means breaking your code down into self-contained elements, such as modules, classes, and functions. Modularising code makes it more readable, and easier to update or fix. If one part breaks or needs updating, only that part has to change.</p><p>Once we have modularised our code, we can go one step further and package it. A package is a self-contained collection of code, documentation, and example data,&nbsp;that can be imported and run. Two examples of packages written by analysts in government are gptables and fingertipsR.</p>",
+    "body": "<p>When creating Reproducible Analytical Pipelines, it is important that we not only code, but code well. One important part of writing code well is making it modular. This means breaking your code down into self-contained elements, for example modules, classes, and functions. Functions are the lowest level of our code. They should do one thing and do it well.&nbsp;Modules are&nbsp;collections of related&nbsp;functions. We can run our pipeline from a high level script that calls in functions from our modules. Classes are features of some programming languages, for example python, that can help us structure our code. Modularising code makes it more readable, and easier to update or fix. If one part breaks or needs updating, only that part has to change.</p><p>Once we have modularised our code, we can go one step further and package it. A package is a self-contained collection of code, documentation, and example data,&nbsp;that can be imported and run. Two examples of packages written by analysts in government are gptables and fingertipsR.</p>",
     "_classes": "",
     "instruction": "",
     "_isOptional": false,
@@ -1083,7 +1083,7 @@
       }
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "_vanilla": {
@@ -1369,7 +1369,7 @@
   {
     "title": "Module references and further resources",
     "displayTitle": "Module references and further resources",
-    "body": "<p>Recommended resources:</p><ul><li><a href=\"https://www.agilealliance.org/agile-essentials/\">Agile Essentials</a>&nbsp;- introduction to Agile from the Agile Alliance</li><li><a href=\"https://scrumguides.org/scrum-guide.html\">Scrum Guide</a>&nbsp;- official guide to Scrum from the creators of the Scrum framework</li><li><a href=\"https://www.atlassian.com/agile\">Agile Coach</a>&nbsp;- guide to Agile development from Atlassian, creator of software to aid Agile development</li><li><a href=\"https://www.gov.uk/service-manual/agile-delivery\">Agile delivery</a>&nbsp;- guidance on Agile in the public sector, from the Government Digital Service&nbsp;</li><li><a href=\"https://gss.civilservice.gov.uk/policy-store/user-engagement-top-tips/\">User Engagement Top Tips</a>&nbsp;- guidance on user engagement, from the Analysis Function</li></ul><p>Additional references:</p><ul><li><a href=\"https://www.prince2.com/uk/blog/project-management-timeline\">Project management timeline: ordering all phases</a>&nbsp;- blog on Waterfall project management, from&nbsp;ILX Group,&nbsp;provider of PRINCE2 training</li></ul>",
+    "body": "<p>Recommended resources:</p><ul><li><a href=\"https://osr.statisticsauthority.gov.uk/publication/reproducible-analytical-pipelines-overcoming-barriers-to-adoption/\">Reproducible Analytical Pipelines: Overcoming barriers to adoption</a>&nbsp;- review into the adoption of RAP from the Office for Statistics Regulation</li><li><a href=\"https://gss.civilservice.gov.uk/policy-store/user-engagement-top-tips/\">User Engagement Top Tips</a>&nbsp;- guidance on user engagement, from the Analysis Function</li><li><a href=\"https://www.agilealliance.org/agile-essentials/\">Agile Essentials</a>&nbsp;- introduction to Agile from the Agile Alliance</li><li><a href=\"https://scrumguides.org/scrum-guide.html\">Scrum Guide</a>&nbsp;- official guide to Scrum from the creators of the Scrum framework</li><li><a href=\"https://www.atlassian.com/agile\">Agile Coach</a>&nbsp;- guide to Agile development from Atlassian, creator of software to aid Agile development</li><li><a href=\"https://www.gov.uk/service-manual/agile-delivery\">Agile delivery</a>&nbsp;- guidance on Agile in the public sector, from the Government Digital Service&nbsp;</li></ul><p>Additional references:</p><ul><li><a href=\"https://www.prince2.com/uk/blog/project-management-timeline\">Project management timeline: ordering all phases</a>&nbsp;- blog on Waterfall project management, from&nbsp;ILX Group,&nbsp;provider of PRINCE2 training</li></ul>",
     "_classes": "",
     "instruction": "",
     "_isOptional": true,
@@ -1706,7 +1706,7 @@
       }
     },
     "_pageLevelProgress": {
-      "_isEnabled": true,
+      "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
     },
     "_vanilla": {

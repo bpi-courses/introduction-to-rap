@@ -1,12 +1,12 @@
 {
   "title": "Introduction to Reproducible Analytical Pipelines (RAP)",
   "displayTitle": "Introduction to Reproducible Analytical Pipelines (RAP)",
-  "body": "<p>Welcome to the Introduction to Reproducible Analytical Pipelines (RAP)&nbsp;e-learning course. This course will:</p><ul><li>Enthuse you about the benefits of RAP</li><li>Give you a broad understanding of how RAP works</li><li>Signpost you to further resources</li></ul><p>This course has been created by the Analysis Function. For any further information or support, please contact <a href=\"mailto:gsshelp@statistics.gov.uk\">GSSHelp@statistics.gov.uk</a>.&nbsp;</p>",
+  "body": "<p>Welcome to the Introduction to Reproducible Analytical Pipelines (RAP)&nbsp;e-learning course. This course will:</p><ul><li>Enthuse you about the benefits of RAP</li><li>Give you a broad understanding of how RAP works</li><li>Signpost you to further resources</li></ul><p>This course is aimed at analysts, statisticians&nbsp;and research users. It is useful for those managing or hoping to manage projects. There is no prior knowledge required for this course. All resources used are linked and referenced both at the end of the relevant module and at the end of the course.</p><p>This course has been created by the Analysis Function. For any further information or support, please contact <a href=\"mailto:gsshelp@statistics.gov.uk\">GSSHelp@statistics.gov.uk</a>.&nbsp;</p>",
   "subtitle": "",
   "description": "",
   "instruction": "",
   "_htmlClasses": "",
-  "_latestTrackingId": 54,
+  "_latestTrackingId": 62,
   "_buttons": {
     "_submit": {
       "buttonText": "Submit",
