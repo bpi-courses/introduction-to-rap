@@ -74,16 +74,6 @@
     "description": "screen shot of how users will navigate ",
     "tags": []
   },
-  "3e6e5076f6195b884c838c8a8bfa5331b95f4c7b.png": {
-    "title": "rep-aud-ass.png",
-    "description": "Reproducibility-auditability-assurance DAG",
-    "tags": [
-      {
-        "title": "RAP",
-        "_id": "609a47d2680ed409e2f98881"
-      }
-    ]
-  },
   "be6f77b68195429661a20136aea7bb33d4ccf112.png": {
     "title": "publications_screenshot.png",
     "description": "Screenshot of published statistics search on gov.uk website",
@@ -164,49 +154,9 @@
       }
     ]
   },
-  "f3dffc59bd86eac48de111694e632d460f8a0add.png": {
-    "title": "Git-Logo-2Color.png",
-    "description": "git logo",
-    "tags": [
-      {
-        "title": "RAP",
-        "_id": "609a47d2680ed409e2f98881"
-      }
-    ]
-  },
-  "15b8705a21541b926d45a9f399f19d99f7184b3d.png": {
-    "title": "git_host_logos.png",
-    "description": "git host logos",
-    "tags": [
-      {
-        "title": "RAP",
-        "_id": "609a47d2680ed409e2f98881"
-      }
-    ]
-  },
-  "bab485582ab32ab0f9f66caca899ab8e24a17527.png": {
-    "title": "git_host_logos (2).png",
-    "description": "git host logos",
-    "tags": [
-      {
-        "title": "RAP",
-        "_id": "609a47d2680ed409e2f98881"
-      }
-    ]
-  },
   "5500a5642a7c2c0a0532aa025853b0dae6f8708c.png": {
     "title": "git_host_logos.png",
     "description": "git host logos",
-    "tags": [
-      {
-        "title": "RAP",
-        "_id": "609a47d2680ed409e2f98881"
-      }
-    ]
-  },
-  "a7eb94bc62f27db047a6659ff62eb86db688ac61.png": {
-    "title": "git_logo.png",
-    "description": "git logo",
     "tags": [
       {
         "title": "RAP",
@@ -267,6 +217,16 @@
   "36170093fa770ce735a398d2c09e608c789a78d3.png": {
     "title": "waterfall_flowchart.png",
     "description": "Waterfall flowchart",
+    "tags": [
+      {
+        "title": "RAP",
+        "_id": "609a47d2680ed409e2f98881"
+      }
+    ]
+  },
+  "1397a90ad0a4082c8d53cd40e0b26223ca7e18ea.svg": {
+    "title": "RAP_pillars_dag.svg",
+    "description": "Image of RAP pillars",
     "tags": [
       {
         "title": "RAP",
